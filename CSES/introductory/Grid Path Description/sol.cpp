@@ -8,10 +8,7 @@ typedef std::array<std::array<std::array<int, GRID_SIZE * GRID_SIZE>, GRID_SIZE>
 typedef std::array<std::array<bool, GRID_SIZE>, GRID_SIZE> visited_t;
 typedef std::tuple<int, int, int, visited_t> state_t;
 
-<<<<<<< HEAD
-=======
 const direction_t foo { 0, 1 };
->>>>>>> 2c6ee9282fbf3bfd1992b7423743a1ecc0d205c6
 
 
 direction_t direction_from_char(char c)

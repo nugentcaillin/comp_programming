@@ -2,7 +2,7 @@
 
 const int GRID_SIZE { 7 };
 
-<<<<<<< HEAD
+
 typedef std::array<std::array<int, GRID_SIZE>, GRID_SIZE> visited_t;
 typedef std::pair<int, int> direction_t;
 
@@ -215,23 +215,16 @@ direction_t direction_from_char(char c)
     }
 };
 
-const std::array<direction_t, 4> BacktrackingSearch::CARDINAL_DIRECTIONS_ {
-    {
-=======
 typedef std::pair<int, int> direction_t;
 
 const std::array<direction_t, 4> CARDINAL_DIRECTIONS 
 {{
->>>>>>> 2c6ee9282fbf3bfd1992b7423743a1ecc0d205c6
     { 0, 1 }
     , { 0, -1 }
     , { 1, 0 }
     , { -1, 0 }
-<<<<<<< HEAD
     }
 };
-=======
-}};
 
 
 bool is_valid_move(int x, int y, int dx, int dy)
@@ -264,12 +257,10 @@ int paths (int x, int y, int depth, std::vector<std::vector<std::vector<long lon
     memo.at(x).at(y).at(depth) = sum;
     return sum;
 }
->>>>>>> 2c6ee9282fbf3bfd1992b7423743a1ecc0d205c6
 
 
 int main()
 {
-<<<<<<< HEAD
     std::string path {};
     
     std::cin >> path;
@@ -279,7 +270,6 @@ int main()
     std::cout << search.get_solution_count() << "\n"; 
 
     return 0;
-=======
     // to get to the bottom left traversing every cell, we must make 48 moves.
     // the number of down moves needs to be 6 more than up moves
     // number of left and right is equal
@@ -302,5 +292,4 @@ int main()
             std::cout << "\n";
         }
     }
->>>>>>> 2c6ee9282fbf3bfd1992b7423743a1ecc0d205c6
 }
