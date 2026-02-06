@@ -1,0 +1,6301 @@
+1260
+aabbtuy
+rightmost_swappable: 5
+before swap: aabbtuy
+before sort: aabbtyu
+after sort: aabbtyu
+aabbtyu
+rightmost_swappable: 4
+before swap: aabbtyu
+before sort: aabbuty
+after sort: aabbuty
+aabbuty
+rightmost_swappable: 5
+before swap: aabbuty
+before sort: aabbuyt
+after sort: aabbuyt
+aabbuyt
+rightmost_swappable: 4
+before swap: aabbuyt
+before sort: aabbyut
+after sort: aabbytu
+aabbytu
+rightmost_swappable: 5
+before swap: aabbytu
+before sort: aabbyut
+after sort: aabbyut
+aabbyut
+rightmost_swappable: 3
+before swap: aabbyut
+before sort: aabtbyu
+after sort: aabtbuy
+aabtbuy
+rightmost_swappable: 5
+before swap: aabtbuy
+before sort: aabtbyu
+after sort: aabtbyu
+aabtbyu
+rightmost_swappable: 4
+before swap: aabtbyu
+before sort: aabtuby
+after sort: aabtuby
+aabtuby
+rightmost_swappable: 5
+before swap: aabtuby
+before sort: aabtuyb
+after sort: aabtuyb
+aabtuyb
+rightmost_swappable: 4
+before swap: aabtuyb
+before sort: aabtyub
+after sort: aabtybu
+aabtybu
+rightmost_swappable: 5
+before swap: aabtybu
+before sort: aabtyub
+after sort: aabtyub
+aabtyub
+rightmost_swappable: 3
+before swap: aabtyub
+before sort: aabutyb
+after sort: aabubty
+aabubty
+rightmost_swappable: 5
+before swap: aabubty
+before sort: aabubyt
+after sort: aabubyt
+aabubyt
+rightmost_swappable: 4
+before swap: aabubyt
+before sort: aabutby
+after sort: aabutby
+aabutby
+rightmost_swappable: 5
+before swap: aabutby
+before sort: aabutyb
+after sort: aabutyb
+aabutyb
+rightmost_swappable: 4
+before swap: aabutyb
+before sort: aabuytb
+after sort: aabuybt
+aabuybt
+rightmost_swappable: 5
+before swap: aabuybt
+before sort: aabuytb
+after sort: aabuytb
+aabuytb
+rightmost_swappable: 3
+before swap: aabuytb
+before sort: aabyutb
+after sort: aabybtu
+aabybtu
+rightmost_swappable: 5
+before swap: aabybtu
+before sort: aabybut
+after sort: aabybut
+aabybut
+rightmost_swappable: 4
+before swap: aabybut
+before sort: aabytbu
+after sort: aabytbu
+aabytbu
+rightmost_swappable: 5
+before swap: aabytbu
+before sort: aabytub
+after sort: aabytub
+aabytub
+rightmost_swappable: 4
+before swap: aabytub
+before sort: aabyutb
+after sort: aabyubt
+aabyubt
+rightmost_swappable: 5
+before swap: aabyubt
+before sort: aabyutb
+after sort: aabyutb
+aabyutb
+rightmost_swappable: 2
+before swap: aabyutb
+before sort: aatbyub
+after sort: aatbbuy
+aatbbuy
+rightmost_swappable: 5
+before swap: aatbbuy
+before sort: aatbbyu
+after sort: aatbbyu
+aatbbyu
+rightmost_swappable: 4
+before swap: aatbbyu
+before sort: aatbuby
+after sort: aatbuby
+aatbuby
+rightmost_swappable: 5
+before swap: aatbuby
+before sort: aatbuyb
+after sort: aatbuyb
+aatbuyb
+rightmost_swappable: 4
+before swap: aatbuyb
+before sort: aatbyub
+after sort: aatbybu
+aatbybu
+rightmost_swappable: 5
+before swap: aatbybu
+before sort: aatbyub
+after sort: aatbyub
+aatbyub
+rightmost_swappable: 3
+before swap: aatbyub
+before sort: aatubyb
+after sort: aatubby
+aatubby
+rightmost_swappable: 5
+before swap: aatubby
+before sort: aatubyb
+after sort: aatubyb
+aatubyb
+rightmost_swappable: 4
+before swap: aatubyb
+before sort: aatuybb
+after sort: aatuybb
+aatuybb
+rightmost_swappable: 3
+before swap: aatuybb
+before sort: aatyubb
+after sort: aatybbu
+aatybbu
+rightmost_swappable: 5
+before swap: aatybbu
+before sort: aatybub
+after sort: aatybub
+aatybub
+rightmost_swappable: 4
+before swap: aatybub
+before sort: aatyubb
+after sort: aatyubb
+aatyubb
+rightmost_swappable: 2
+before swap: aatyubb
+before sort: aautybb
+after sort: aaubbty
+aaubbty
+rightmost_swappable: 5
+before swap: aaubbty
+before sort: aaubbyt
+after sort: aaubbyt
+aaubbyt
+rightmost_swappable: 4
+before swap: aaubbyt
+before sort: aaubtby
+after sort: aaubtby
+aaubtby
+rightmost_swappable: 5
+before swap: aaubtby
+before sort: aaubtyb
+after sort: aaubtyb
+aaubtyb
+rightmost_swappable: 4
+before swap: aaubtyb
+before sort: aaubytb
+after sort: aaubybt
+aaubybt
+rightmost_swappable: 5
+before swap: aaubybt
+before sort: aaubytb
+after sort: aaubytb
+aaubytb
+rightmost_swappable: 3
+before swap: aaubytb
+before sort: aautbyb
+after sort: aautbby
+aautbby
+rightmost_swappable: 5
+before swap: aautbby
+before sort: aautbyb
+after sort: aautbyb
+aautbyb
+rightmost_swappable: 4
+before swap: aautbyb
+before sort: aautybb
+after sort: aautybb
+aautybb
+rightmost_swappable: 3
+before swap: aautybb
+before sort: aauytbb
+after sort: aauybbt
+aauybbt
+rightmost_swappable: 5
+before swap: aauybbt
+before sort: aauybtb
+after sort: aauybtb
+aauybtb
+rightmost_swappable: 4
+before swap: aauybtb
+before sort: aauytbb
+after sort: aauytbb
+aauytbb
+rightmost_swappable: 2
+before swap: aauytbb
+before sort: aayutbb
+after sort: aaybbtu
+aaybbtu
+rightmost_swappable: 5
+before swap: aaybbtu
+before sort: aaybbut
+after sort: aaybbut
+aaybbut
+rightmost_swappable: 4
+before swap: aaybbut
+before sort: aaybtbu
+after sort: aaybtbu
+aaybtbu
+rightmost_swappable: 5
+before swap: aaybtbu
+before sort: aaybtub
+after sort: aaybtub
+aaybtub
+rightmost_swappable: 4
+before swap: aaybtub
+before sort: aaybutb
+after sort: aaybubt
+aaybubt
+rightmost_swappable: 5
+before swap: aaybubt
+before sort: aaybutb
+after sort: aaybutb
+aaybutb
+rightmost_swappable: 3
+before swap: aaybutb
+before sort: aaytbub
+after sort: aaytbbu
+aaytbbu
+rightmost_swappable: 5
+before swap: aaytbbu
+before sort: aaytbub
+after sort: aaytbub
+aaytbub
+rightmost_swappable: 4
+before swap: aaytbub
+before sort: aaytubb
+after sort: aaytubb
+aaytubb
+rightmost_swappable: 3
+before swap: aaytubb
+before sort: aayutbb
+after sort: aayubbt
+aayubbt
+rightmost_swappable: 5
+before swap: aayubbt
+before sort: aayubtb
+after sort: aayubtb
+aayubtb
+rightmost_swappable: 4
+before swap: aayubtb
+before sort: aayutbb
+after sort: aayutbb
+aayutbb
+rightmost_swappable: 1
+before swap: aayutbb
+before sort: abayutb
+after sort: ababtuy
+ababtuy
+rightmost_swappable: 5
+before swap: ababtuy
+before sort: ababtyu
+after sort: ababtyu
+ababtyu
+rightmost_swappable: 4
+before swap: ababtyu
+before sort: ababuty
+after sort: ababuty
+ababuty
+rightmost_swappable: 5
+before swap: ababuty
+before sort: ababuyt
+after sort: ababuyt
+ababuyt
+rightmost_swappable: 4
+before swap: ababuyt
+before sort: ababyut
+after sort: ababytu
+ababytu
+rightmost_swappable: 5
+before swap: ababytu
+before sort: ababyut
+after sort: ababyut
+ababyut
+rightmost_swappable: 3
+before swap: ababyut
+before sort: abatbyu
+after sort: abatbuy
+abatbuy
+rightmost_swappable: 5
+before swap: abatbuy
+before sort: abatbyu
+after sort: abatbyu
+abatbyu
+rightmost_swappable: 4
+before swap: abatbyu
+before sort: abatuby
+after sort: abatuby
+abatuby
+rightmost_swappable: 5
+before swap: abatuby
+before sort: abatuyb
+after sort: abatuyb
+abatuyb
+rightmost_swappable: 4
+before swap: abatuyb
+before sort: abatyub
+after sort: abatybu
+abatybu
+rightmost_swappable: 5
+before swap: abatybu
+before sort: abatyub
+after sort: abatyub
+abatyub
+rightmost_swappable: 3
+before swap: abatyub
+before sort: abautyb
+after sort: abaubty
+abaubty
+rightmost_swappable: 5
+before swap: abaubty
+before sort: abaubyt
+after sort: abaubyt
+abaubyt
+rightmost_swappable: 4
+before swap: abaubyt
+before sort: abautby
+after sort: abautby
+abautby
+rightmost_swappable: 5
+before swap: abautby
+before sort: abautyb
+after sort: abautyb
+abautyb
+rightmost_swappable: 4
+before swap: abautyb
+before sort: abauytb
+after sort: abauybt
+abauybt
+rightmost_swappable: 5
+before swap: abauybt
+before sort: abauytb
+after sort: abauytb
+abauytb
+rightmost_swappable: 3
+before swap: abauytb
+before sort: abayutb
+after sort: abaybtu
+abaybtu
+rightmost_swappable: 5
+before swap: abaybtu
+before sort: abaybut
+after sort: abaybut
+abaybut
+rightmost_swappable: 4
+before swap: abaybut
+before sort: abaytbu
+after sort: abaytbu
+abaytbu
+rightmost_swappable: 5
+before swap: abaytbu
+before sort: abaytub
+after sort: abaytub
+abaytub
+rightmost_swappable: 4
+before swap: abaytub
+before sort: abayutb
+after sort: abayubt
+abayubt
+rightmost_swappable: 5
+before swap: abayubt
+before sort: abayutb
+after sort: abayutb
+abayutb
+rightmost_swappable: 2
+before swap: abayutb
+before sort: abbayut
+after sort: abbatuy
+abbatuy
+rightmost_swappable: 5
+before swap: abbatuy
+before sort: abbatyu
+after sort: abbatyu
+abbatyu
+rightmost_swappable: 4
+before swap: abbatyu
+before sort: abbauty
+after sort: abbauty
+abbauty
+rightmost_swappable: 5
+before swap: abbauty
+before sort: abbauyt
+after sort: abbauyt
+abbauyt
+rightmost_swappable: 4
+before swap: abbauyt
+before sort: abbayut
+after sort: abbaytu
+abbaytu
+rightmost_swappable: 5
+before swap: abbaytu
+before sort: abbayut
+after sort: abbayut
+abbayut
+rightmost_swappable: 3
+before swap: abbayut
+before sort: abbtayu
+after sort: abbtauy
+abbtauy
+rightmost_swappable: 5
+before swap: abbtauy
+before sort: abbtayu
+after sort: abbtayu
+abbtayu
+rightmost_swappable: 4
+before swap: abbtayu
+before sort: abbtuay
+after sort: abbtuay
+abbtuay
+rightmost_swappable: 5
+before swap: abbtuay
+before sort: abbtuya
+after sort: abbtuya
+abbtuya
+rightmost_swappable: 4
+before swap: abbtuya
+before sort: abbtyua
+after sort: abbtyau
+abbtyau
+rightmost_swappable: 5
+before swap: abbtyau
+before sort: abbtyua
+after sort: abbtyua
+abbtyua
+rightmost_swappable: 3
+before swap: abbtyua
+before sort: abbutya
+after sort: abbuaty
+abbuaty
+rightmost_swappable: 5
+before swap: abbuaty
+before sort: abbuayt
+after sort: abbuayt
+abbuayt
+rightmost_swappable: 4
+before swap: abbuayt
+before sort: abbutay
+after sort: abbutay
+abbutay
+rightmost_swappable: 5
+before swap: abbutay
+before sort: abbutya
+after sort: abbutya
+abbutya
+rightmost_swappable: 4
+before swap: abbutya
+before sort: abbuyta
+after sort: abbuyat
+abbuyat
+rightmost_swappable: 5
+before swap: abbuyat
+before sort: abbuyta
+after sort: abbuyta
+abbuyta
+rightmost_swappable: 3
+before swap: abbuyta
+before sort: abbyuta
+after sort: abbyatu
+abbyatu
+rightmost_swappable: 5
+before swap: abbyatu
+before sort: abbyaut
+after sort: abbyaut
+abbyaut
+rightmost_swappable: 4
+before swap: abbyaut
+before sort: abbytau
+after sort: abbytau
+abbytau
+rightmost_swappable: 5
+before swap: abbytau
+before sort: abbytua
+after sort: abbytua
+abbytua
+rightmost_swappable: 4
+before swap: abbytua
+before sort: abbyuta
+after sort: abbyuat
+abbyuat
+rightmost_swappable: 5
+before swap: abbyuat
+before sort: abbyuta
+after sort: abbyuta
+abbyuta
+rightmost_swappable: 2
+before swap: abbyuta
+before sort: abtbyua
+after sort: abtabuy
+abtabuy
+rightmost_swappable: 5
+before swap: abtabuy
+before sort: abtabyu
+after sort: abtabyu
+abtabyu
+rightmost_swappable: 4
+before swap: abtabyu
+before sort: abtauby
+after sort: abtauby
+abtauby
+rightmost_swappable: 5
+before swap: abtauby
+before sort: abtauyb
+after sort: abtauyb
+abtauyb
+rightmost_swappable: 4
+before swap: abtauyb
+before sort: abtayub
+after sort: abtaybu
+abtaybu
+rightmost_swappable: 5
+before swap: abtaybu
+before sort: abtayub
+after sort: abtayub
+abtayub
+rightmost_swappable: 3
+before swap: abtayub
+before sort: abtbayu
+after sort: abtbauy
+abtbauy
+rightmost_swappable: 5
+before swap: abtbauy
+before sort: abtbayu
+after sort: abtbayu
+abtbayu
+rightmost_swappable: 4
+before swap: abtbayu
+before sort: abtbuay
+after sort: abtbuay
+abtbuay
+rightmost_swappable: 5
+before swap: abtbuay
+before sort: abtbuya
+after sort: abtbuya
+abtbuya
+rightmost_swappable: 4
+before swap: abtbuya
+before sort: abtbyua
+after sort: abtbyau
+abtbyau
+rightmost_swappable: 5
+before swap: abtbyau
+before sort: abtbyua
+after sort: abtbyua
+abtbyua
+rightmost_swappable: 3
+before swap: abtbyua
+before sort: abtubya
+after sort: abtuaby
+abtuaby
+rightmost_swappable: 5
+before swap: abtuaby
+before sort: abtuayb
+after sort: abtuayb
+abtuayb
+rightmost_swappable: 4
+before swap: abtuayb
+before sort: abtubay
+after sort: abtubay
+abtubay
+rightmost_swappable: 5
+before swap: abtubay
+before sort: abtubya
+after sort: abtubya
+abtubya
+rightmost_swappable: 4
+before swap: abtubya
+before sort: abtuyba
+after sort: abtuyab
+abtuyab
+rightmost_swappable: 5
+before swap: abtuyab
+before sort: abtuyba
+after sort: abtuyba
+abtuyba
+rightmost_swappable: 3
+before swap: abtuyba
+before sort: abtyuba
+after sort: abtyabu
+abtyabu
+rightmost_swappable: 5
+before swap: abtyabu
+before sort: abtyaub
+after sort: abtyaub
+abtyaub
+rightmost_swappable: 4
+before swap: abtyaub
+before sort: abtybau
+after sort: abtybau
+abtybau
+rightmost_swappable: 5
+before swap: abtybau
+before sort: abtybua
+after sort: abtybua
+abtybua
+rightmost_swappable: 4
+before swap: abtybua
+before sort: abtyuba
+after sort: abtyuab
+abtyuab
+rightmost_swappable: 5
+before swap: abtyuab
+before sort: abtyuba
+after sort: abtyuba
+abtyuba
+rightmost_swappable: 2
+before swap: abtyuba
+before sort: abutyba
+after sort: abuabty
+abuabty
+rightmost_swappable: 5
+before swap: abuabty
+before sort: abuabyt
+after sort: abuabyt
+abuabyt
+rightmost_swappable: 4
+before swap: abuabyt
+before sort: abuatby
+after sort: abuatby
+abuatby
+rightmost_swappable: 5
+before swap: abuatby
+before sort: abuatyb
+after sort: abuatyb
+abuatyb
+rightmost_swappable: 4
+before swap: abuatyb
+before sort: abuaytb
+after sort: abuaybt
+abuaybt
+rightmost_swappable: 5
+before swap: abuaybt
+before sort: abuaytb
+after sort: abuaytb
+abuaytb
+rightmost_swappable: 3
+before swap: abuaytb
+before sort: abubayt
+after sort: abubaty
+abubaty
+rightmost_swappable: 5
+before swap: abubaty
+before sort: abubayt
+after sort: abubayt
+abubayt
+rightmost_swappable: 4
+before swap: abubayt
+before sort: abubtay
+after sort: abubtay
+abubtay
+rightmost_swappable: 5
+before swap: abubtay
+before sort: abubtya
+after sort: abubtya
+abubtya
+rightmost_swappable: 4
+before swap: abubtya
+before sort: abubyta
+after sort: abubyat
+abubyat
+rightmost_swappable: 5
+before swap: abubyat
+before sort: abubyta
+after sort: abubyta
+abubyta
+rightmost_swappable: 3
+before swap: abubyta
+before sort: abutbya
+after sort: abutaby
+abutaby
+rightmost_swappable: 5
+before swap: abutaby
+before sort: abutayb
+after sort: abutayb
+abutayb
+rightmost_swappable: 4
+before swap: abutayb
+before sort: abutbay
+after sort: abutbay
+abutbay
+rightmost_swappable: 5
+before swap: abutbay
+before sort: abutbya
+after sort: abutbya
+abutbya
+rightmost_swappable: 4
+before swap: abutbya
+before sort: abutyba
+after sort: abutyab
+abutyab
+rightmost_swappable: 5
+before swap: abutyab
+before sort: abutyba
+after sort: abutyba
+abutyba
+rightmost_swappable: 3
+before swap: abutyba
+before sort: abuytba
+after sort: abuyabt
+abuyabt
+rightmost_swappable: 5
+before swap: abuyabt
+before sort: abuyatb
+after sort: abuyatb
+abuyatb
+rightmost_swappable: 4
+before swap: abuyatb
+before sort: abuybat
+after sort: abuybat
+abuybat
+rightmost_swappable: 5
+before swap: abuybat
+before sort: abuybta
+after sort: abuybta
+abuybta
+rightmost_swappable: 4
+before swap: abuybta
+before sort: abuytba
+after sort: abuytab
+abuytab
+rightmost_swappable: 5
+before swap: abuytab
+before sort: abuytba
+after sort: abuytba
+abuytba
+rightmost_swappable: 2
+before swap: abuytba
+before sort: abyutba
+after sort: abyabtu
+abyabtu
+rightmost_swappable: 5
+before swap: abyabtu
+before sort: abyabut
+after sort: abyabut
+abyabut
+rightmost_swappable: 4
+before swap: abyabut
+before sort: abyatbu
+after sort: abyatbu
+abyatbu
+rightmost_swappable: 5
+before swap: abyatbu
+before sort: abyatub
+after sort: abyatub
+abyatub
+rightmost_swappable: 4
+before swap: abyatub
+before sort: abyautb
+after sort: abyaubt
+abyaubt
+rightmost_swappable: 5
+before swap: abyaubt
+before sort: abyautb
+after sort: abyautb
+abyautb
+rightmost_swappable: 3
+before swap: abyautb
+before sort: abybaut
+after sort: abybatu
+abybatu
+rightmost_swappable: 5
+before swap: abybatu
+before sort: abybaut
+after sort: abybaut
+abybaut
+rightmost_swappable: 4
+before swap: abybaut
+before sort: abybtau
+after sort: abybtau
+abybtau
+rightmost_swappable: 5
+before swap: abybtau
+before sort: abybtua
+after sort: abybtua
+abybtua
+rightmost_swappable: 4
+before swap: abybtua
+before sort: abybuta
+after sort: abybuat
+abybuat
+rightmost_swappable: 5
+before swap: abybuat
+before sort: abybuta
+after sort: abybuta
+abybuta
+rightmost_swappable: 3
+before swap: abybuta
+before sort: abytbua
+after sort: abytabu
+abytabu
+rightmost_swappable: 5
+before swap: abytabu
+before sort: abytaub
+after sort: abytaub
+abytaub
+rightmost_swappable: 4
+before swap: abytaub
+before sort: abytbau
+after sort: abytbau
+abytbau
+rightmost_swappable: 5
+before swap: abytbau
+before sort: abytbua
+after sort: abytbua
+abytbua
+rightmost_swappable: 4
+before swap: abytbua
+before sort: abytuba
+after sort: abytuab
+abytuab
+rightmost_swappable: 5
+before swap: abytuab
+before sort: abytuba
+after sort: abytuba
+abytuba
+rightmost_swappable: 3
+before swap: abytuba
+before sort: abyutba
+after sort: abyuabt
+abyuabt
+rightmost_swappable: 5
+before swap: abyuabt
+before sort: abyuatb
+after sort: abyuatb
+abyuatb
+rightmost_swappable: 4
+before swap: abyuatb
+before sort: abyubat
+after sort: abyubat
+abyubat
+rightmost_swappable: 5
+before swap: abyubat
+before sort: abyubta
+after sort: abyubta
+abyubta
+rightmost_swappable: 4
+before swap: abyubta
+before sort: abyutba
+after sort: abyutab
+abyutab
+rightmost_swappable: 5
+before swap: abyutab
+before sort: abyutba
+after sort: abyutba
+abyutba
+rightmost_swappable: 1
+before swap: abyutba
+before sort: atbyuba
+after sort: atabbuy
+atabbuy
+rightmost_swappable: 5
+before swap: atabbuy
+before sort: atabbyu
+after sort: atabbyu
+atabbyu
+rightmost_swappable: 4
+before swap: atabbyu
+before sort: atabuby
+after sort: atabuby
+atabuby
+rightmost_swappable: 5
+before swap: atabuby
+before sort: atabuyb
+after sort: atabuyb
+atabuyb
+rightmost_swappable: 4
+before swap: atabuyb
+before sort: atabyub
+after sort: atabybu
+atabybu
+rightmost_swappable: 5
+before swap: atabybu
+before sort: atabyub
+after sort: atabyub
+atabyub
+rightmost_swappable: 3
+before swap: atabyub
+before sort: ataubyb
+after sort: ataubby
+ataubby
+rightmost_swappable: 5
+before swap: ataubby
+before sort: ataubyb
+after sort: ataubyb
+ataubyb
+rightmost_swappable: 4
+before swap: ataubyb
+before sort: atauybb
+after sort: atauybb
+atauybb
+rightmost_swappable: 3
+before swap: atauybb
+before sort: atayubb
+after sort: ataybbu
+ataybbu
+rightmost_swappable: 5
+before swap: ataybbu
+before sort: ataybub
+after sort: ataybub
+ataybub
+rightmost_swappable: 4
+before swap: ataybub
+before sort: atayubb
+after sort: atayubb
+atayubb
+rightmost_swappable: 2
+before swap: atayubb
+before sort: atbayub
+after sort: atbabuy
+atbabuy
+rightmost_swappable: 5
+before swap: atbabuy
+before sort: atbabyu
+after sort: atbabyu
+atbabyu
+rightmost_swappable: 4
+before swap: atbabyu
+before sort: atbauby
+after sort: atbauby
+atbauby
+rightmost_swappable: 5
+before swap: atbauby
+before sort: atbauyb
+after sort: atbauyb
+atbauyb
+rightmost_swappable: 4
+before swap: atbauyb
+before sort: atbayub
+after sort: atbaybu
+atbaybu
+rightmost_swappable: 5
+before swap: atbaybu
+before sort: atbayub
+after sort: atbayub
+atbayub
+rightmost_swappable: 3
+before swap: atbayub
+before sort: atbbayu
+after sort: atbbauy
+atbbauy
+rightmost_swappable: 5
+before swap: atbbauy
+before sort: atbbayu
+after sort: atbbayu
+atbbayu
+rightmost_swappable: 4
+before swap: atbbayu
+before sort: atbbuay
+after sort: atbbuay
+atbbuay
+rightmost_swappable: 5
+before swap: atbbuay
+before sort: atbbuya
+after sort: atbbuya
+atbbuya
+rightmost_swappable: 4
+before swap: atbbuya
+before sort: atbbyua
+after sort: atbbyau
+atbbyau
+rightmost_swappable: 5
+before swap: atbbyau
+before sort: atbbyua
+after sort: atbbyua
+atbbyua
+rightmost_swappable: 3
+before swap: atbbyua
+before sort: atbubya
+after sort: atbuaby
+atbuaby
+rightmost_swappable: 5
+before swap: atbuaby
+before sort: atbuayb
+after sort: atbuayb
+atbuayb
+rightmost_swappable: 4
+before swap: atbuayb
+before sort: atbubay
+after sort: atbubay
+atbubay
+rightmost_swappable: 5
+before swap: atbubay
+before sort: atbubya
+after sort: atbubya
+atbubya
+rightmost_swappable: 4
+before swap: atbubya
+before sort: atbuyba
+after sort: atbuyab
+atbuyab
+rightmost_swappable: 5
+before swap: atbuyab
+before sort: atbuyba
+after sort: atbuyba
+atbuyba
+rightmost_swappable: 3
+before swap: atbuyba
+before sort: atbyuba
+after sort: atbyabu
+atbyabu
+rightmost_swappable: 5
+before swap: atbyabu
+before sort: atbyaub
+after sort: atbyaub
+atbyaub
+rightmost_swappable: 4
+before swap: atbyaub
+before sort: atbybau
+after sort: atbybau
+atbybau
+rightmost_swappable: 5
+before swap: atbybau
+before sort: atbybua
+after sort: atbybua
+atbybua
+rightmost_swappable: 4
+before swap: atbybua
+before sort: atbyuba
+after sort: atbyuab
+atbyuab
+rightmost_swappable: 5
+before swap: atbyuab
+before sort: atbyuba
+after sort: atbyuba
+atbyuba
+rightmost_swappable: 2
+before swap: atbyuba
+before sort: atubyba
+after sort: atuabby
+atuabby
+rightmost_swappable: 5
+before swap: atuabby
+before sort: atuabyb
+after sort: atuabyb
+atuabyb
+rightmost_swappable: 4
+before swap: atuabyb
+before sort: atuaybb
+after sort: atuaybb
+atuaybb
+rightmost_swappable: 3
+before swap: atuaybb
+before sort: atubayb
+after sort: atubaby
+atubaby
+rightmost_swappable: 5
+before swap: atubaby
+before sort: atubayb
+after sort: atubayb
+atubayb
+rightmost_swappable: 4
+before swap: atubayb
+before sort: atubbay
+after sort: atubbay
+atubbay
+rightmost_swappable: 5
+before swap: atubbay
+before sort: atubbya
+after sort: atubbya
+atubbya
+rightmost_swappable: 4
+before swap: atubbya
+before sort: atubyba
+after sort: atubyab
+atubyab
+rightmost_swappable: 5
+before swap: atubyab
+before sort: atubyba
+after sort: atubyba
+atubyba
+rightmost_swappable: 3
+before swap: atubyba
+before sort: atuybba
+after sort: atuyabb
+atuyabb
+rightmost_swappable: 4
+before swap: atuyabb
+before sort: atuybab
+after sort: atuybab
+atuybab
+rightmost_swappable: 5
+before swap: atuybab
+before sort: atuybba
+after sort: atuybba
+atuybba
+rightmost_swappable: 2
+before swap: atuybba
+before sort: atyubba
+after sort: atyabbu
+atyabbu
+rightmost_swappable: 5
+before swap: atyabbu
+before sort: atyabub
+after sort: atyabub
+atyabub
+rightmost_swappable: 4
+before swap: atyabub
+before sort: atyaubb
+after sort: atyaubb
+atyaubb
+rightmost_swappable: 3
+before swap: atyaubb
+before sort: atybaub
+after sort: atybabu
+atybabu
+rightmost_swappable: 5
+before swap: atybabu
+before sort: atybaub
+after sort: atybaub
+atybaub
+rightmost_swappable: 4
+before swap: atybaub
+before sort: atybbau
+after sort: atybbau
+atybbau
+rightmost_swappable: 5
+before swap: atybbau
+before sort: atybbua
+after sort: atybbua
+atybbua
+rightmost_swappable: 4
+before swap: atybbua
+before sort: atybuba
+after sort: atybuab
+atybuab
+rightmost_swappable: 5
+before swap: atybuab
+before sort: atybuba
+after sort: atybuba
+atybuba
+rightmost_swappable: 3
+before swap: atybuba
+before sort: atyubba
+after sort: atyuabb
+atyuabb
+rightmost_swappable: 4
+before swap: atyuabb
+before sort: atyubab
+after sort: atyubab
+atyubab
+rightmost_swappable: 5
+before swap: atyubab
+before sort: atyubba
+after sort: atyubba
+atyubba
+rightmost_swappable: 1
+before swap: atyubba
+before sort: autybba
+after sort: auabbty
+auabbty
+rightmost_swappable: 5
+before swap: auabbty
+before sort: auabbyt
+after sort: auabbyt
+auabbyt
+rightmost_swappable: 4
+before swap: auabbyt
+before sort: auabtby
+after sort: auabtby
+auabtby
+rightmost_swappable: 5
+before swap: auabtby
+before sort: auabtyb
+after sort: auabtyb
+auabtyb
+rightmost_swappable: 4
+before swap: auabtyb
+before sort: auabytb
+after sort: auabybt
+auabybt
+rightmost_swappable: 5
+before swap: auabybt
+before sort: auabytb
+after sort: auabytb
+auabytb
+rightmost_swappable: 3
+before swap: auabytb
+before sort: auatbyb
+after sort: auatbby
+auatbby
+rightmost_swappable: 5
+before swap: auatbby
+before sort: auatbyb
+after sort: auatbyb
+auatbyb
+rightmost_swappable: 4
+before swap: auatbyb
+before sort: auatybb
+after sort: auatybb
+auatybb
+rightmost_swappable: 3
+before swap: auatybb
+before sort: auaytbb
+after sort: auaybbt
+auaybbt
+rightmost_swappable: 5
+before swap: auaybbt
+before sort: auaybtb
+after sort: auaybtb
+auaybtb
+rightmost_swappable: 4
+before swap: auaybtb
+before sort: auaytbb
+after sort: auaytbb
+auaytbb
+rightmost_swappable: 2
+before swap: auaytbb
+before sort: aubaytb
+after sort: aubabty
+aubabty
+rightmost_swappable: 5
+before swap: aubabty
+before sort: aubabyt
+after sort: aubabyt
+aubabyt
+rightmost_swappable: 4
+before swap: aubabyt
+before sort: aubatby
+after sort: aubatby
+aubatby
+rightmost_swappable: 5
+before swap: aubatby
+before sort: aubatyb
+after sort: aubatyb
+aubatyb
+rightmost_swappable: 4
+before swap: aubatyb
+before sort: aubaytb
+after sort: aubaybt
+aubaybt
+rightmost_swappable: 5
+before swap: aubaybt
+before sort: aubaytb
+after sort: aubaytb
+aubaytb
+rightmost_swappable: 3
+before swap: aubaytb
+before sort: aubbayt
+after sort: aubbaty
+aubbaty
+rightmost_swappable: 5
+before swap: aubbaty
+before sort: aubbayt
+after sort: aubbayt
+aubbayt
+rightmost_swappable: 4
+before swap: aubbayt
+before sort: aubbtay
+after sort: aubbtay
+aubbtay
+rightmost_swappable: 5
+before swap: aubbtay
+before sort: aubbtya
+after sort: aubbtya
+aubbtya
+rightmost_swappable: 4
+before swap: aubbtya
+before sort: aubbyta
+after sort: aubbyat
+aubbyat
+rightmost_swappable: 5
+before swap: aubbyat
+before sort: aubbyta
+after sort: aubbyta
+aubbyta
+rightmost_swappable: 3
+before swap: aubbyta
+before sort: aubtbya
+after sort: aubtaby
+aubtaby
+rightmost_swappable: 5
+before swap: aubtaby
+before sort: aubtayb
+after sort: aubtayb
+aubtayb
+rightmost_swappable: 4
+before swap: aubtayb
+before sort: aubtbay
+after sort: aubtbay
+aubtbay
+rightmost_swappable: 5
+before swap: aubtbay
+before sort: aubtbya
+after sort: aubtbya
+aubtbya
+rightmost_swappable: 4
+before swap: aubtbya
+before sort: aubtyba
+after sort: aubtyab
+aubtyab
+rightmost_swappable: 5
+before swap: aubtyab
+before sort: aubtyba
+after sort: aubtyba
+aubtyba
+rightmost_swappable: 3
+before swap: aubtyba
+before sort: aubytba
+after sort: aubyabt
+aubyabt
+rightmost_swappable: 5
+before swap: aubyabt
+before sort: aubyatb
+after sort: aubyatb
+aubyatb
+rightmost_swappable: 4
+before swap: aubyatb
+before sort: aubybat
+after sort: aubybat
+aubybat
+rightmost_swappable: 5
+before swap: aubybat
+before sort: aubybta
+after sort: aubybta
+aubybta
+rightmost_swappable: 4
+before swap: aubybta
+before sort: aubytba
+after sort: aubytab
+aubytab
+rightmost_swappable: 5
+before swap: aubytab
+before sort: aubytba
+after sort: aubytba
+aubytba
+rightmost_swappable: 2
+before swap: aubytba
+before sort: autbyba
+after sort: autabby
+autabby
+rightmost_swappable: 5
+before swap: autabby
+before sort: autabyb
+after sort: autabyb
+autabyb
+rightmost_swappable: 4
+before swap: autabyb
+before sort: autaybb
+after sort: autaybb
+autaybb
+rightmost_swappable: 3
+before swap: autaybb
+before sort: autbayb
+after sort: autbaby
+autbaby
+rightmost_swappable: 5
+before swap: autbaby
+before sort: autbayb
+after sort: autbayb
+autbayb
+rightmost_swappable: 4
+before swap: autbayb
+before sort: autbbay
+after sort: autbbay
+autbbay
+rightmost_swappable: 5
+before swap: autbbay
+before sort: autbbya
+after sort: autbbya
+autbbya
+rightmost_swappable: 4
+before swap: autbbya
+before sort: autbyba
+after sort: autbyab
+autbyab
+rightmost_swappable: 5
+before swap: autbyab
+before sort: autbyba
+after sort: autbyba
+autbyba
+rightmost_swappable: 3
+before swap: autbyba
+before sort: autybba
+after sort: autyabb
+autyabb
+rightmost_swappable: 4
+before swap: autyabb
+before sort: autybab
+after sort: autybab
+autybab
+rightmost_swappable: 5
+before swap: autybab
+before sort: autybba
+after sort: autybba
+autybba
+rightmost_swappable: 2
+before swap: autybba
+before sort: auytbba
+after sort: auyabbt
+auyabbt
+rightmost_swappable: 5
+before swap: auyabbt
+before sort: auyabtb
+after sort: auyabtb
+auyabtb
+rightmost_swappable: 4
+before swap: auyabtb
+before sort: auyatbb
+after sort: auyatbb
+auyatbb
+rightmost_swappable: 3
+before swap: auyatbb
+before sort: auybatb
+after sort: auybabt
+auybabt
+rightmost_swappable: 5
+before swap: auybabt
+before sort: auybatb
+after sort: auybatb
+auybatb
+rightmost_swappable: 4
+before swap: auybatb
+before sort: auybbat
+after sort: auybbat
+auybbat
+rightmost_swappable: 5
+before swap: auybbat
+before sort: auybbta
+after sort: auybbta
+auybbta
+rightmost_swappable: 4
+before swap: auybbta
+before sort: auybtba
+after sort: auybtab
+auybtab
+rightmost_swappable: 5
+before swap: auybtab
+before sort: auybtba
+after sort: auybtba
+auybtba
+rightmost_swappable: 3
+before swap: auybtba
+before sort: auytbba
+after sort: auytabb
+auytabb
+rightmost_swappable: 4
+before swap: auytabb
+before sort: auytbab
+after sort: auytbab
+auytbab
+rightmost_swappable: 5
+before swap: auytbab
+before sort: auytbba
+after sort: auytbba
+auytbba
+rightmost_swappable: 1
+before swap: auytbba
+before sort: ayutbba
+after sort: ayabbtu
+ayabbtu
+rightmost_swappable: 5
+before swap: ayabbtu
+before sort: ayabbut
+after sort: ayabbut
+ayabbut
+rightmost_swappable: 4
+before swap: ayabbut
+before sort: ayabtbu
+after sort: ayabtbu
+ayabtbu
+rightmost_swappable: 5
+before swap: ayabtbu
+before sort: ayabtub
+after sort: ayabtub
+ayabtub
+rightmost_swappable: 4
+before swap: ayabtub
+before sort: ayabutb
+after sort: ayabubt
+ayabubt
+rightmost_swappable: 5
+before swap: ayabubt
+before sort: ayabutb
+after sort: ayabutb
+ayabutb
+rightmost_swappable: 3
+before swap: ayabutb
+before sort: ayatbub
+after sort: ayatbbu
+ayatbbu
+rightmost_swappable: 5
+before swap: ayatbbu
+before sort: ayatbub
+after sort: ayatbub
+ayatbub
+rightmost_swappable: 4
+before swap: ayatbub
+before sort: ayatubb
+after sort: ayatubb
+ayatubb
+rightmost_swappable: 3
+before swap: ayatubb
+before sort: ayautbb
+after sort: ayaubbt
+ayaubbt
+rightmost_swappable: 5
+before swap: ayaubbt
+before sort: ayaubtb
+after sort: ayaubtb
+ayaubtb
+rightmost_swappable: 4
+before swap: ayaubtb
+before sort: ayautbb
+after sort: ayautbb
+ayautbb
+rightmost_swappable: 2
+before swap: ayautbb
+before sort: aybautb
+after sort: aybabtu
+aybabtu
+rightmost_swappable: 5
+before swap: aybabtu
+before sort: aybabut
+after sort: aybabut
+aybabut
+rightmost_swappable: 4
+before swap: aybabut
+before sort: aybatbu
+after sort: aybatbu
+aybatbu
+rightmost_swappable: 5
+before swap: aybatbu
+before sort: aybatub
+after sort: aybatub
+aybatub
+rightmost_swappable: 4
+before swap: aybatub
+before sort: aybautb
+after sort: aybaubt
+aybaubt
+rightmost_swappable: 5
+before swap: aybaubt
+before sort: aybautb
+after sort: aybautb
+aybautb
+rightmost_swappable: 3
+before swap: aybautb
+before sort: aybbaut
+after sort: aybbatu
+aybbatu
+rightmost_swappable: 5
+before swap: aybbatu
+before sort: aybbaut
+after sort: aybbaut
+aybbaut
+rightmost_swappable: 4
+before swap: aybbaut
+before sort: aybbtau
+after sort: aybbtau
+aybbtau
+rightmost_swappable: 5
+before swap: aybbtau
+before sort: aybbtua
+after sort: aybbtua
+aybbtua
+rightmost_swappable: 4
+before swap: aybbtua
+before sort: aybbuta
+after sort: aybbuat
+aybbuat
+rightmost_swappable: 5
+before swap: aybbuat
+before sort: aybbuta
+after sort: aybbuta
+aybbuta
+rightmost_swappable: 3
+before swap: aybbuta
+before sort: aybtbua
+after sort: aybtabu
+aybtabu
+rightmost_swappable: 5
+before swap: aybtabu
+before sort: aybtaub
+after sort: aybtaub
+aybtaub
+rightmost_swappable: 4
+before swap: aybtaub
+before sort: aybtbau
+after sort: aybtbau
+aybtbau
+rightmost_swappable: 5
+before swap: aybtbau
+before sort: aybtbua
+after sort: aybtbua
+aybtbua
+rightmost_swappable: 4
+before swap: aybtbua
+before sort: aybtuba
+after sort: aybtuab
+aybtuab
+rightmost_swappable: 5
+before swap: aybtuab
+before sort: aybtuba
+after sort: aybtuba
+aybtuba
+rightmost_swappable: 3
+before swap: aybtuba
+before sort: aybutba
+after sort: aybuabt
+aybuabt
+rightmost_swappable: 5
+before swap: aybuabt
+before sort: aybuatb
+after sort: aybuatb
+aybuatb
+rightmost_swappable: 4
+before swap: aybuatb
+before sort: aybubat
+after sort: aybubat
+aybubat
+rightmost_swappable: 5
+before swap: aybubat
+before sort: aybubta
+after sort: aybubta
+aybubta
+rightmost_swappable: 4
+before swap: aybubta
+before sort: aybutba
+after sort: aybutab
+aybutab
+rightmost_swappable: 5
+before swap: aybutab
+before sort: aybutba
+after sort: aybutba
+aybutba
+rightmost_swappable: 2
+before swap: aybutba
+before sort: aytbuba
+after sort: aytabbu
+aytabbu
+rightmost_swappable: 5
+before swap: aytabbu
+before sort: aytabub
+after sort: aytabub
+aytabub
+rightmost_swappable: 4
+before swap: aytabub
+before sort: aytaubb
+after sort: aytaubb
+aytaubb
+rightmost_swappable: 3
+before swap: aytaubb
+before sort: aytbaub
+after sort: aytbabu
+aytbabu
+rightmost_swappable: 5
+before swap: aytbabu
+before sort: aytbaub
+after sort: aytbaub
+aytbaub
+rightmost_swappable: 4
+before swap: aytbaub
+before sort: aytbbau
+after sort: aytbbau
+aytbbau
+rightmost_swappable: 5
+before swap: aytbbau
+before sort: aytbbua
+after sort: aytbbua
+aytbbua
+rightmost_swappable: 4
+before swap: aytbbua
+before sort: aytbuba
+after sort: aytbuab
+aytbuab
+rightmost_swappable: 5
+before swap: aytbuab
+before sort: aytbuba
+after sort: aytbuba
+aytbuba
+rightmost_swappable: 3
+before swap: aytbuba
+before sort: aytubba
+after sort: aytuabb
+aytuabb
+rightmost_swappable: 4
+before swap: aytuabb
+before sort: aytubab
+after sort: aytubab
+aytubab
+rightmost_swappable: 5
+before swap: aytubab
+before sort: aytubba
+after sort: aytubba
+aytubba
+rightmost_swappable: 2
+before swap: aytubba
+before sort: ayutbba
+after sort: ayuabbt
+ayuabbt
+rightmost_swappable: 5
+before swap: ayuabbt
+before sort: ayuabtb
+after sort: ayuabtb
+ayuabtb
+rightmost_swappable: 4
+before swap: ayuabtb
+before sort: ayuatbb
+after sort: ayuatbb
+ayuatbb
+rightmost_swappable: 3
+before swap: ayuatbb
+before sort: ayubatb
+after sort: ayubabt
+ayubabt
+rightmost_swappable: 5
+before swap: ayubabt
+before sort: ayubatb
+after sort: ayubatb
+ayubatb
+rightmost_swappable: 4
+before swap: ayubatb
+before sort: ayubbat
+after sort: ayubbat
+ayubbat
+rightmost_swappable: 5
+before swap: ayubbat
+before sort: ayubbta
+after sort: ayubbta
+ayubbta
+rightmost_swappable: 4
+before swap: ayubbta
+before sort: ayubtba
+after sort: ayubtab
+ayubtab
+rightmost_swappable: 5
+before swap: ayubtab
+before sort: ayubtba
+after sort: ayubtba
+ayubtba
+rightmost_swappable: 3
+before swap: ayubtba
+before sort: ayutbba
+after sort: ayutabb
+ayutabb
+rightmost_swappable: 4
+before swap: ayutabb
+before sort: ayutbab
+after sort: ayutbab
+ayutbab
+rightmost_swappable: 5
+before swap: ayutbab
+before sort: ayutbba
+after sort: ayutbba
+ayutbba
+rightmost_swappable: 0
+before swap: ayutbba
+before sort: bayutba
+after sort: baabtuy
+baabtuy
+rightmost_swappable: 5
+before swap: baabtuy
+before sort: baabtyu
+after sort: baabtyu
+baabtyu
+rightmost_swappable: 4
+before swap: baabtyu
+before sort: baabuty
+after sort: baabuty
+baabuty
+rightmost_swappable: 5
+before swap: baabuty
+before sort: baabuyt
+after sort: baabuyt
+baabuyt
+rightmost_swappable: 4
+before swap: baabuyt
+before sort: baabyut
+after sort: baabytu
+baabytu
+rightmost_swappable: 5
+before swap: baabytu
+before sort: baabyut
+after sort: baabyut
+baabyut
+rightmost_swappable: 3
+before swap: baabyut
+before sort: baatbyu
+after sort: baatbuy
+baatbuy
+rightmost_swappable: 5
+before swap: baatbuy
+before sort: baatbyu
+after sort: baatbyu
+baatbyu
+rightmost_swappable: 4
+before swap: baatbyu
+before sort: baatuby
+after sort: baatuby
+baatuby
+rightmost_swappable: 5
+before swap: baatuby
+before sort: baatuyb
+after sort: baatuyb
+baatuyb
+rightmost_swappable: 4
+before swap: baatuyb
+before sort: baatyub
+after sort: baatybu
+baatybu
+rightmost_swappable: 5
+before swap: baatybu
+before sort: baatyub
+after sort: baatyub
+baatyub
+rightmost_swappable: 3
+before swap: baatyub
+before sort: baautyb
+after sort: baaubty
+baaubty
+rightmost_swappable: 5
+before swap: baaubty
+before sort: baaubyt
+after sort: baaubyt
+baaubyt
+rightmost_swappable: 4
+before swap: baaubyt
+before sort: baautby
+after sort: baautby
+baautby
+rightmost_swappable: 5
+before swap: baautby
+before sort: baautyb
+after sort: baautyb
+baautyb
+rightmost_swappable: 4
+before swap: baautyb
+before sort: baauytb
+after sort: baauybt
+baauybt
+rightmost_swappable: 5
+before swap: baauybt
+before sort: baauytb
+after sort: baauytb
+baauytb
+rightmost_swappable: 3
+before swap: baauytb
+before sort: baayutb
+after sort: baaybtu
+baaybtu
+rightmost_swappable: 5
+before swap: baaybtu
+before sort: baaybut
+after sort: baaybut
+baaybut
+rightmost_swappable: 4
+before swap: baaybut
+before sort: baaytbu
+after sort: baaytbu
+baaytbu
+rightmost_swappable: 5
+before swap: baaytbu
+before sort: baaytub
+after sort: baaytub
+baaytub
+rightmost_swappable: 4
+before swap: baaytub
+before sort: baayutb
+after sort: baayubt
+baayubt
+rightmost_swappable: 5
+before swap: baayubt
+before sort: baayutb
+after sort: baayutb
+baayutb
+rightmost_swappable: 2
+before swap: baayutb
+before sort: babayut
+after sort: babatuy
+babatuy
+rightmost_swappable: 5
+before swap: babatuy
+before sort: babatyu
+after sort: babatyu
+babatyu
+rightmost_swappable: 4
+before swap: babatyu
+before sort: babauty
+after sort: babauty
+babauty
+rightmost_swappable: 5
+before swap: babauty
+before sort: babauyt
+after sort: babauyt
+babauyt
+rightmost_swappable: 4
+before swap: babauyt
+before sort: babayut
+after sort: babaytu
+babaytu
+rightmost_swappable: 5
+before swap: babaytu
+before sort: babayut
+after sort: babayut
+babayut
+rightmost_swappable: 3
+before swap: babayut
+before sort: babtayu
+after sort: babtauy
+babtauy
+rightmost_swappable: 5
+before swap: babtauy
+before sort: babtayu
+after sort: babtayu
+babtayu
+rightmost_swappable: 4
+before swap: babtayu
+before sort: babtuay
+after sort: babtuay
+babtuay
+rightmost_swappable: 5
+before swap: babtuay
+before sort: babtuya
+after sort: babtuya
+babtuya
+rightmost_swappable: 4
+before swap: babtuya
+before sort: babtyua
+after sort: babtyau
+babtyau
+rightmost_swappable: 5
+before swap: babtyau
+before sort: babtyua
+after sort: babtyua
+babtyua
+rightmost_swappable: 3
+before swap: babtyua
+before sort: babutya
+after sort: babuaty
+babuaty
+rightmost_swappable: 5
+before swap: babuaty
+before sort: babuayt
+after sort: babuayt
+babuayt
+rightmost_swappable: 4
+before swap: babuayt
+before sort: babutay
+after sort: babutay
+babutay
+rightmost_swappable: 5
+before swap: babutay
+before sort: babutya
+after sort: babutya
+babutya
+rightmost_swappable: 4
+before swap: babutya
+before sort: babuyta
+after sort: babuyat
+babuyat
+rightmost_swappable: 5
+before swap: babuyat
+before sort: babuyta
+after sort: babuyta
+babuyta
+rightmost_swappable: 3
+before swap: babuyta
+before sort: babyuta
+after sort: babyatu
+babyatu
+rightmost_swappable: 5
+before swap: babyatu
+before sort: babyaut
+after sort: babyaut
+babyaut
+rightmost_swappable: 4
+before swap: babyaut
+before sort: babytau
+after sort: babytau
+babytau
+rightmost_swappable: 5
+before swap: babytau
+before sort: babytua
+after sort: babytua
+babytua
+rightmost_swappable: 4
+before swap: babytua
+before sort: babyuta
+after sort: babyuat
+babyuat
+rightmost_swappable: 5
+before swap: babyuat
+before sort: babyuta
+after sort: babyuta
+babyuta
+rightmost_swappable: 2
+before swap: babyuta
+before sort: batbyua
+after sort: batabuy
+batabuy
+rightmost_swappable: 5
+before swap: batabuy
+before sort: batabyu
+after sort: batabyu
+batabyu
+rightmost_swappable: 4
+before swap: batabyu
+before sort: batauby
+after sort: batauby
+batauby
+rightmost_swappable: 5
+before swap: batauby
+before sort: batauyb
+after sort: batauyb
+batauyb
+rightmost_swappable: 4
+before swap: batauyb
+before sort: batayub
+after sort: bataybu
+bataybu
+rightmost_swappable: 5
+before swap: bataybu
+before sort: batayub
+after sort: batayub
+batayub
+rightmost_swappable: 3
+before swap: batayub
+before sort: batbayu
+after sort: batbauy
+batbauy
+rightmost_swappable: 5
+before swap: batbauy
+before sort: batbayu
+after sort: batbayu
+batbayu
+rightmost_swappable: 4
+before swap: batbayu
+before sort: batbuay
+after sort: batbuay
+batbuay
+rightmost_swappable: 5
+before swap: batbuay
+before sort: batbuya
+after sort: batbuya
+batbuya
+rightmost_swappable: 4
+before swap: batbuya
+before sort: batbyua
+after sort: batbyau
+batbyau
+rightmost_swappable: 5
+before swap: batbyau
+before sort: batbyua
+after sort: batbyua
+batbyua
+rightmost_swappable: 3
+before swap: batbyua
+before sort: batubya
+after sort: batuaby
+batuaby
+rightmost_swappable: 5
+before swap: batuaby
+before sort: batuayb
+after sort: batuayb
+batuayb
+rightmost_swappable: 4
+before swap: batuayb
+before sort: batubay
+after sort: batubay
+batubay
+rightmost_swappable: 5
+before swap: batubay
+before sort: batubya
+after sort: batubya
+batubya
+rightmost_swappable: 4
+before swap: batubya
+before sort: batuyba
+after sort: batuyab
+batuyab
+rightmost_swappable: 5
+before swap: batuyab
+before sort: batuyba
+after sort: batuyba
+batuyba
+rightmost_swappable: 3
+before swap: batuyba
+before sort: batyuba
+after sort: batyabu
+batyabu
+rightmost_swappable: 5
+before swap: batyabu
+before sort: batyaub
+after sort: batyaub
+batyaub
+rightmost_swappable: 4
+before swap: batyaub
+before sort: batybau
+after sort: batybau
+batybau
+rightmost_swappable: 5
+before swap: batybau
+before sort: batybua
+after sort: batybua
+batybua
+rightmost_swappable: 4
+before swap: batybua
+before sort: batyuba
+after sort: batyuab
+batyuab
+rightmost_swappable: 5
+before swap: batyuab
+before sort: batyuba
+after sort: batyuba
+batyuba
+rightmost_swappable: 2
+before swap: batyuba
+before sort: bautyba
+after sort: bauabty
+bauabty
+rightmost_swappable: 5
+before swap: bauabty
+before sort: bauabyt
+after sort: bauabyt
+bauabyt
+rightmost_swappable: 4
+before swap: bauabyt
+before sort: bauatby
+after sort: bauatby
+bauatby
+rightmost_swappable: 5
+before swap: bauatby
+before sort: bauatyb
+after sort: bauatyb
+bauatyb
+rightmost_swappable: 4
+before swap: bauatyb
+before sort: bauaytb
+after sort: bauaybt
+bauaybt
+rightmost_swappable: 5
+before swap: bauaybt
+before sort: bauaytb
+after sort: bauaytb
+bauaytb
+rightmost_swappable: 3
+before swap: bauaytb
+before sort: baubayt
+after sort: baubaty
+baubaty
+rightmost_swappable: 5
+before swap: baubaty
+before sort: baubayt
+after sort: baubayt
+baubayt
+rightmost_swappable: 4
+before swap: baubayt
+before sort: baubtay
+after sort: baubtay
+baubtay
+rightmost_swappable: 5
+before swap: baubtay
+before sort: baubtya
+after sort: baubtya
+baubtya
+rightmost_swappable: 4
+before swap: baubtya
+before sort: baubyta
+after sort: baubyat
+baubyat
+rightmost_swappable: 5
+before swap: baubyat
+before sort: baubyta
+after sort: baubyta
+baubyta
+rightmost_swappable: 3
+before swap: baubyta
+before sort: bautbya
+after sort: bautaby
+bautaby
+rightmost_swappable: 5
+before swap: bautaby
+before sort: bautayb
+after sort: bautayb
+bautayb
+rightmost_swappable: 4
+before swap: bautayb
+before sort: bautbay
+after sort: bautbay
+bautbay
+rightmost_swappable: 5
+before swap: bautbay
+before sort: bautbya
+after sort: bautbya
+bautbya
+rightmost_swappable: 4
+before swap: bautbya
+before sort: bautyba
+after sort: bautyab
+bautyab
+rightmost_swappable: 5
+before swap: bautyab
+before sort: bautyba
+after sort: bautyba
+bautyba
+rightmost_swappable: 3
+before swap: bautyba
+before sort: bauytba
+after sort: bauyabt
+bauyabt
+rightmost_swappable: 5
+before swap: bauyabt
+before sort: bauyatb
+after sort: bauyatb
+bauyatb
+rightmost_swappable: 4
+before swap: bauyatb
+before sort: bauybat
+after sort: bauybat
+bauybat
+rightmost_swappable: 5
+before swap: bauybat
+before sort: bauybta
+after sort: bauybta
+bauybta
+rightmost_swappable: 4
+before swap: bauybta
+before sort: bauytba
+after sort: bauytab
+bauytab
+rightmost_swappable: 5
+before swap: bauytab
+before sort: bauytba
+after sort: bauytba
+bauytba
+rightmost_swappable: 2
+before swap: bauytba
+before sort: bayutba
+after sort: bayabtu
+bayabtu
+rightmost_swappable: 5
+before swap: bayabtu
+before sort: bayabut
+after sort: bayabut
+bayabut
+rightmost_swappable: 4
+before swap: bayabut
+before sort: bayatbu
+after sort: bayatbu
+bayatbu
+rightmost_swappable: 5
+before swap: bayatbu
+before sort: bayatub
+after sort: bayatub
+bayatub
+rightmost_swappable: 4
+before swap: bayatub
+before sort: bayautb
+after sort: bayaubt
+bayaubt
+rightmost_swappable: 5
+before swap: bayaubt
+before sort: bayautb
+after sort: bayautb
+bayautb
+rightmost_swappable: 3
+before swap: bayautb
+before sort: baybaut
+after sort: baybatu
+baybatu
+rightmost_swappable: 5
+before swap: baybatu
+before sort: baybaut
+after sort: baybaut
+baybaut
+rightmost_swappable: 4
+before swap: baybaut
+before sort: baybtau
+after sort: baybtau
+baybtau
+rightmost_swappable: 5
+before swap: baybtau
+before sort: baybtua
+after sort: baybtua
+baybtua
+rightmost_swappable: 4
+before swap: baybtua
+before sort: baybuta
+after sort: baybuat
+baybuat
+rightmost_swappable: 5
+before swap: baybuat
+before sort: baybuta
+after sort: baybuta
+baybuta
+rightmost_swappable: 3
+before swap: baybuta
+before sort: baytbua
+after sort: baytabu
+baytabu
+rightmost_swappable: 5
+before swap: baytabu
+before sort: baytaub
+after sort: baytaub
+baytaub
+rightmost_swappable: 4
+before swap: baytaub
+before sort: baytbau
+after sort: baytbau
+baytbau
+rightmost_swappable: 5
+before swap: baytbau
+before sort: baytbua
+after sort: baytbua
+baytbua
+rightmost_swappable: 4
+before swap: baytbua
+before sort: baytuba
+after sort: baytuab
+baytuab
+rightmost_swappable: 5
+before swap: baytuab
+before sort: baytuba
+after sort: baytuba
+baytuba
+rightmost_swappable: 3
+before swap: baytuba
+before sort: bayutba
+after sort: bayuabt
+bayuabt
+rightmost_swappable: 5
+before swap: bayuabt
+before sort: bayuatb
+after sort: bayuatb
+bayuatb
+rightmost_swappable: 4
+before swap: bayuatb
+before sort: bayubat
+after sort: bayubat
+bayubat
+rightmost_swappable: 5
+before swap: bayubat
+before sort: bayubta
+after sort: bayubta
+bayubta
+rightmost_swappable: 4
+before swap: bayubta
+before sort: bayutba
+after sort: bayutab
+bayutab
+rightmost_swappable: 5
+before swap: bayutab
+before sort: bayutba
+after sort: bayutba
+bayutba
+rightmost_swappable: 1
+before swap: bayutba
+before sort: bbayuta
+after sort: bbaatuy
+bbaatuy
+rightmost_swappable: 5
+before swap: bbaatuy
+before sort: bbaatyu
+after sort: bbaatyu
+bbaatyu
+rightmost_swappable: 4
+before swap: bbaatyu
+before sort: bbaauty
+after sort: bbaauty
+bbaauty
+rightmost_swappable: 5
+before swap: bbaauty
+before sort: bbaauyt
+after sort: bbaauyt
+bbaauyt
+rightmost_swappable: 4
+before swap: bbaauyt
+before sort: bbaayut
+after sort: bbaaytu
+bbaaytu
+rightmost_swappable: 5
+before swap: bbaaytu
+before sort: bbaayut
+after sort: bbaayut
+bbaayut
+rightmost_swappable: 3
+before swap: bbaayut
+before sort: bbatayu
+after sort: bbatauy
+bbatauy
+rightmost_swappable: 5
+before swap: bbatauy
+before sort: bbatayu
+after sort: bbatayu
+bbatayu
+rightmost_swappable: 4
+before swap: bbatayu
+before sort: bbatuay
+after sort: bbatuay
+bbatuay
+rightmost_swappable: 5
+before swap: bbatuay
+before sort: bbatuya
+after sort: bbatuya
+bbatuya
+rightmost_swappable: 4
+before swap: bbatuya
+before sort: bbatyua
+after sort: bbatyau
+bbatyau
+rightmost_swappable: 5
+before swap: bbatyau
+before sort: bbatyua
+after sort: bbatyua
+bbatyua
+rightmost_swappable: 3
+before swap: bbatyua
+before sort: bbautya
+after sort: bbauaty
+bbauaty
+rightmost_swappable: 5
+before swap: bbauaty
+before sort: bbauayt
+after sort: bbauayt
+bbauayt
+rightmost_swappable: 4
+before swap: bbauayt
+before sort: bbautay
+after sort: bbautay
+bbautay
+rightmost_swappable: 5
+before swap: bbautay
+before sort: bbautya
+after sort: bbautya
+bbautya
+rightmost_swappable: 4
+before swap: bbautya
+before sort: bbauyta
+after sort: bbauyat
+bbauyat
+rightmost_swappable: 5
+before swap: bbauyat
+before sort: bbauyta
+after sort: bbauyta
+bbauyta
+rightmost_swappable: 3
+before swap: bbauyta
+before sort: bbayuta
+after sort: bbayatu
+bbayatu
+rightmost_swappable: 5
+before swap: bbayatu
+before sort: bbayaut
+after sort: bbayaut
+bbayaut
+rightmost_swappable: 4
+before swap: bbayaut
+before sort: bbaytau
+after sort: bbaytau
+bbaytau
+rightmost_swappable: 5
+before swap: bbaytau
+before sort: bbaytua
+after sort: bbaytua
+bbaytua
+rightmost_swappable: 4
+before swap: bbaytua
+before sort: bbayuta
+after sort: bbayuat
+bbayuat
+rightmost_swappable: 5
+before swap: bbayuat
+before sort: bbayuta
+after sort: bbayuta
+bbayuta
+rightmost_swappable: 2
+before swap: bbayuta
+before sort: bbtayua
+after sort: bbtaauy
+bbtaauy
+rightmost_swappable: 5
+before swap: bbtaauy
+before sort: bbtaayu
+after sort: bbtaayu
+bbtaayu
+rightmost_swappable: 4
+before swap: bbtaayu
+before sort: bbtauay
+after sort: bbtauay
+bbtauay
+rightmost_swappable: 5
+before swap: bbtauay
+before sort: bbtauya
+after sort: bbtauya
+bbtauya
+rightmost_swappable: 4
+before swap: bbtauya
+before sort: bbtayua
+after sort: bbtayau
+bbtayau
+rightmost_swappable: 5
+before swap: bbtayau
+before sort: bbtayua
+after sort: bbtayua
+bbtayua
+rightmost_swappable: 3
+before swap: bbtayua
+before sort: bbtuaya
+after sort: bbtuaay
+bbtuaay
+rightmost_swappable: 5
+before swap: bbtuaay
+before sort: bbtuaya
+after sort: bbtuaya
+bbtuaya
+rightmost_swappable: 4
+before swap: bbtuaya
+before sort: bbtuyaa
+after sort: bbtuyaa
+bbtuyaa
+rightmost_swappable: 3
+before swap: bbtuyaa
+before sort: bbtyuaa
+after sort: bbtyaau
+bbtyaau
+rightmost_swappable: 5
+before swap: bbtyaau
+before sort: bbtyaua
+after sort: bbtyaua
+bbtyaua
+rightmost_swappable: 4
+before swap: bbtyaua
+before sort: bbtyuaa
+after sort: bbtyuaa
+bbtyuaa
+rightmost_swappable: 2
+before swap: bbtyuaa
+before sort: bbutyaa
+after sort: bbuaaty
+bbuaaty
+rightmost_swappable: 5
+before swap: bbuaaty
+before sort: bbuaayt
+after sort: bbuaayt
+bbuaayt
+rightmost_swappable: 4
+before swap: bbuaayt
+before sort: bbuatay
+after sort: bbuatay
+bbuatay
+rightmost_swappable: 5
+before swap: bbuatay
+before sort: bbuatya
+after sort: bbuatya
+bbuatya
+rightmost_swappable: 4
+before swap: bbuatya
+before sort: bbuayta
+after sort: bbuayat
+bbuayat
+rightmost_swappable: 5
+before swap: bbuayat
+before sort: bbuayta
+after sort: bbuayta
+bbuayta
+rightmost_swappable: 3
+before swap: bbuayta
+before sort: bbutaya
+after sort: bbutaay
+bbutaay
+rightmost_swappable: 5
+before swap: bbutaay
+before sort: bbutaya
+after sort: bbutaya
+bbutaya
+rightmost_swappable: 4
+before swap: bbutaya
+before sort: bbutyaa
+after sort: bbutyaa
+bbutyaa
+rightmost_swappable: 3
+before swap: bbutyaa
+before sort: bbuytaa
+after sort: bbuyaat
+bbuyaat
+rightmost_swappable: 5
+before swap: bbuyaat
+before sort: bbuyata
+after sort: bbuyata
+bbuyata
+rightmost_swappable: 4
+before swap: bbuyata
+before sort: bbuytaa
+after sort: bbuytaa
+bbuytaa
+rightmost_swappable: 2
+before swap: bbuytaa
+before sort: bbyutaa
+after sort: bbyaatu
+bbyaatu
+rightmost_swappable: 5
+before swap: bbyaatu
+before sort: bbyaaut
+after sort: bbyaaut
+bbyaaut
+rightmost_swappable: 4
+before swap: bbyaaut
+before sort: bbyatau
+after sort: bbyatau
+bbyatau
+rightmost_swappable: 5
+before swap: bbyatau
+before sort: bbyatua
+after sort: bbyatua
+bbyatua
+rightmost_swappable: 4
+before swap: bbyatua
+before sort: bbyauta
+after sort: bbyauat
+bbyauat
+rightmost_swappable: 5
+before swap: bbyauat
+before sort: bbyauta
+after sort: bbyauta
+bbyauta
+rightmost_swappable: 3
+before swap: bbyauta
+before sort: bbytaua
+after sort: bbytaau
+bbytaau
+rightmost_swappable: 5
+before swap: bbytaau
+before sort: bbytaua
+after sort: bbytaua
+bbytaua
+rightmost_swappable: 4
+before swap: bbytaua
+before sort: bbytuaa
+after sort: bbytuaa
+bbytuaa
+rightmost_swappable: 3
+before swap: bbytuaa
+before sort: bbyutaa
+after sort: bbyuaat
+bbyuaat
+rightmost_swappable: 5
+before swap: bbyuaat
+before sort: bbyuata
+after sort: bbyuata
+bbyuata
+rightmost_swappable: 4
+before swap: bbyuata
+before sort: bbyutaa
+after sort: bbyutaa
+bbyutaa
+rightmost_swappable: 1
+before swap: bbyutaa
+before sort: btbyuaa
+after sort: btaabuy
+btaabuy
+rightmost_swappable: 5
+before swap: btaabuy
+before sort: btaabyu
+after sort: btaabyu
+btaabyu
+rightmost_swappable: 4
+before swap: btaabyu
+before sort: btaauby
+after sort: btaauby
+btaauby
+rightmost_swappable: 5
+before swap: btaauby
+before sort: btaauyb
+after sort: btaauyb
+btaauyb
+rightmost_swappable: 4
+before swap: btaauyb
+before sort: btaayub
+after sort: btaaybu
+btaaybu
+rightmost_swappable: 5
+before swap: btaaybu
+before sort: btaayub
+after sort: btaayub
+btaayub
+rightmost_swappable: 3
+before swap: btaayub
+before sort: btabayu
+after sort: btabauy
+btabauy
+rightmost_swappable: 5
+before swap: btabauy
+before sort: btabayu
+after sort: btabayu
+btabayu
+rightmost_swappable: 4
+before swap: btabayu
+before sort: btabuay
+after sort: btabuay
+btabuay
+rightmost_swappable: 5
+before swap: btabuay
+before sort: btabuya
+after sort: btabuya
+btabuya
+rightmost_swappable: 4
+before swap: btabuya
+before sort: btabyua
+after sort: btabyau
+btabyau
+rightmost_swappable: 5
+before swap: btabyau
+before sort: btabyua
+after sort: btabyua
+btabyua
+rightmost_swappable: 3
+before swap: btabyua
+before sort: btaubya
+after sort: btauaby
+btauaby
+rightmost_swappable: 5
+before swap: btauaby
+before sort: btauayb
+after sort: btauayb
+btauayb
+rightmost_swappable: 4
+before swap: btauayb
+before sort: btaubay
+after sort: btaubay
+btaubay
+rightmost_swappable: 5
+before swap: btaubay
+before sort: btaubya
+after sort: btaubya
+btaubya
+rightmost_swappable: 4
+before swap: btaubya
+before sort: btauyba
+after sort: btauyab
+btauyab
+rightmost_swappable: 5
+before swap: btauyab
+before sort: btauyba
+after sort: btauyba
+btauyba
+rightmost_swappable: 3
+before swap: btauyba
+before sort: btayuba
+after sort: btayabu
+btayabu
+rightmost_swappable: 5
+before swap: btayabu
+before sort: btayaub
+after sort: btayaub
+btayaub
+rightmost_swappable: 4
+before swap: btayaub
+before sort: btaybau
+after sort: btaybau
+btaybau
+rightmost_swappable: 5
+before swap: btaybau
+before sort: btaybua
+after sort: btaybua
+btaybua
+rightmost_swappable: 4
+before swap: btaybua
+before sort: btayuba
+after sort: btayuab
+btayuab
+rightmost_swappable: 5
+before swap: btayuab
+before sort: btayuba
+after sort: btayuba
+btayuba
+rightmost_swappable: 2
+before swap: btayuba
+before sort: btbayua
+after sort: btbaauy
+btbaauy
+rightmost_swappable: 5
+before swap: btbaauy
+before sort: btbaayu
+after sort: btbaayu
+btbaayu
+rightmost_swappable: 4
+before swap: btbaayu
+before sort: btbauay
+after sort: btbauay
+btbauay
+rightmost_swappable: 5
+before swap: btbauay
+before sort: btbauya
+after sort: btbauya
+btbauya
+rightmost_swappable: 4
+before swap: btbauya
+before sort: btbayua
+after sort: btbayau
+btbayau
+rightmost_swappable: 5
+before swap: btbayau
+before sort: btbayua
+after sort: btbayua
+btbayua
+rightmost_swappable: 3
+before swap: btbayua
+before sort: btbuaya
+after sort: btbuaay
+btbuaay
+rightmost_swappable: 5
+before swap: btbuaay
+before sort: btbuaya
+after sort: btbuaya
+btbuaya
+rightmost_swappable: 4
+before swap: btbuaya
+before sort: btbuyaa
+after sort: btbuyaa
+btbuyaa
+rightmost_swappable: 3
+before swap: btbuyaa
+before sort: btbyuaa
+after sort: btbyaau
+btbyaau
+rightmost_swappable: 5
+before swap: btbyaau
+before sort: btbyaua
+after sort: btbyaua
+btbyaua
+rightmost_swappable: 4
+before swap: btbyaua
+before sort: btbyuaa
+after sort: btbyuaa
+btbyuaa
+rightmost_swappable: 2
+before swap: btbyuaa
+before sort: btubyaa
+after sort: btuaaby
+btuaaby
+rightmost_swappable: 5
+before swap: btuaaby
+before sort: btuaayb
+after sort: btuaayb
+btuaayb
+rightmost_swappable: 4
+before swap: btuaayb
+before sort: btuabay
+after sort: btuabay
+btuabay
+rightmost_swappable: 5
+before swap: btuabay
+before sort: btuabya
+after sort: btuabya
+btuabya
+rightmost_swappable: 4
+before swap: btuabya
+before sort: btuayba
+after sort: btuayab
+btuayab
+rightmost_swappable: 5
+before swap: btuayab
+before sort: btuayba
+after sort: btuayba
+btuayba
+rightmost_swappable: 3
+before swap: btuayba
+before sort: btubaya
+after sort: btubaay
+btubaay
+rightmost_swappable: 5
+before swap: btubaay
+before sort: btubaya
+after sort: btubaya
+btubaya
+rightmost_swappable: 4
+before swap: btubaya
+before sort: btubyaa
+after sort: btubyaa
+btubyaa
+rightmost_swappable: 3
+before swap: btubyaa
+before sort: btuybaa
+after sort: btuyaab
+btuyaab
+rightmost_swappable: 5
+before swap: btuyaab
+before sort: btuyaba
+after sort: btuyaba
+btuyaba
+rightmost_swappable: 4
+before swap: btuyaba
+before sort: btuybaa
+after sort: btuybaa
+btuybaa
+rightmost_swappable: 2
+before swap: btuybaa
+before sort: btyubaa
+after sort: btyaabu
+btyaabu
+rightmost_swappable: 5
+before swap: btyaabu
+before sort: btyaaub
+after sort: btyaaub
+btyaaub
+rightmost_swappable: 4
+before swap: btyaaub
+before sort: btyabau
+after sort: btyabau
+btyabau
+rightmost_swappable: 5
+before swap: btyabau
+before sort: btyabua
+after sort: btyabua
+btyabua
+rightmost_swappable: 4
+before swap: btyabua
+before sort: btyauba
+after sort: btyauab
+btyauab
+rightmost_swappable: 5
+before swap: btyauab
+before sort: btyauba
+after sort: btyauba
+btyauba
+rightmost_swappable: 3
+before swap: btyauba
+before sort: btybaua
+after sort: btybaau
+btybaau
+rightmost_swappable: 5
+before swap: btybaau
+before sort: btybaua
+after sort: btybaua
+btybaua
+rightmost_swappable: 4
+before swap: btybaua
+before sort: btybuaa
+after sort: btybuaa
+btybuaa
+rightmost_swappable: 3
+before swap: btybuaa
+before sort: btyubaa
+after sort: btyuaab
+btyuaab
+rightmost_swappable: 5
+before swap: btyuaab
+before sort: btyuaba
+after sort: btyuaba
+btyuaba
+rightmost_swappable: 4
+before swap: btyuaba
+before sort: btyubaa
+after sort: btyubaa
+btyubaa
+rightmost_swappable: 1
+before swap: btyubaa
+before sort: butybaa
+after sort: buaabty
+buaabty
+rightmost_swappable: 5
+before swap: buaabty
+before sort: buaabyt
+after sort: buaabyt
+buaabyt
+rightmost_swappable: 4
+before swap: buaabyt
+before sort: buaatby
+after sort: buaatby
+buaatby
+rightmost_swappable: 5
+before swap: buaatby
+before sort: buaatyb
+after sort: buaatyb
+buaatyb
+rightmost_swappable: 4
+before swap: buaatyb
+before sort: buaaytb
+after sort: buaaybt
+buaaybt
+rightmost_swappable: 5
+before swap: buaaybt
+before sort: buaaytb
+after sort: buaaytb
+buaaytb
+rightmost_swappable: 3
+before swap: buaaytb
+before sort: buabayt
+after sort: buabaty
+buabaty
+rightmost_swappable: 5
+before swap: buabaty
+before sort: buabayt
+after sort: buabayt
+buabayt
+rightmost_swappable: 4
+before swap: buabayt
+before sort: buabtay
+after sort: buabtay
+buabtay
+rightmost_swappable: 5
+before swap: buabtay
+before sort: buabtya
+after sort: buabtya
+buabtya
+rightmost_swappable: 4
+before swap: buabtya
+before sort: buabyta
+after sort: buabyat
+buabyat
+rightmost_swappable: 5
+before swap: buabyat
+before sort: buabyta
+after sort: buabyta
+buabyta
+rightmost_swappable: 3
+before swap: buabyta
+before sort: buatbya
+after sort: buataby
+buataby
+rightmost_swappable: 5
+before swap: buataby
+before sort: buatayb
+after sort: buatayb
+buatayb
+rightmost_swappable: 4
+before swap: buatayb
+before sort: buatbay
+after sort: buatbay
+buatbay
+rightmost_swappable: 5
+before swap: buatbay
+before sort: buatbya
+after sort: buatbya
+buatbya
+rightmost_swappable: 4
+before swap: buatbya
+before sort: buatyba
+after sort: buatyab
+buatyab
+rightmost_swappable: 5
+before swap: buatyab
+before sort: buatyba
+after sort: buatyba
+buatyba
+rightmost_swappable: 3
+before swap: buatyba
+before sort: buaytba
+after sort: buayabt
+buayabt
+rightmost_swappable: 5
+before swap: buayabt
+before sort: buayatb
+after sort: buayatb
+buayatb
+rightmost_swappable: 4
+before swap: buayatb
+before sort: buaybat
+after sort: buaybat
+buaybat
+rightmost_swappable: 5
+before swap: buaybat
+before sort: buaybta
+after sort: buaybta
+buaybta
+rightmost_swappable: 4
+before swap: buaybta
+before sort: buaytba
+after sort: buaytab
+buaytab
+rightmost_swappable: 5
+before swap: buaytab
+before sort: buaytba
+after sort: buaytba
+buaytba
+rightmost_swappable: 2
+before swap: buaytba
+before sort: bubayta
+after sort: bubaaty
+bubaaty
+rightmost_swappable: 5
+before swap: bubaaty
+before sort: bubaayt
+after sort: bubaayt
+bubaayt
+rightmost_swappable: 4
+before swap: bubaayt
+before sort: bubatay
+after sort: bubatay
+bubatay
+rightmost_swappable: 5
+before swap: bubatay
+before sort: bubatya
+after sort: bubatya
+bubatya
+rightmost_swappable: 4
+before swap: bubatya
+before sort: bubayta
+after sort: bubayat
+bubayat
+rightmost_swappable: 5
+before swap: bubayat
+before sort: bubayta
+after sort: bubayta
+bubayta
+rightmost_swappable: 3
+before swap: bubayta
+before sort: bubtaya
+after sort: bubtaay
+bubtaay
+rightmost_swappable: 5
+before swap: bubtaay
+before sort: bubtaya
+after sort: bubtaya
+bubtaya
+rightmost_swappable: 4
+before swap: bubtaya
+before sort: bubtyaa
+after sort: bubtyaa
+bubtyaa
+rightmost_swappable: 3
+before swap: bubtyaa
+before sort: bubytaa
+after sort: bubyaat
+bubyaat
+rightmost_swappable: 5
+before swap: bubyaat
+before sort: bubyata
+after sort: bubyata
+bubyata
+rightmost_swappable: 4
+before swap: bubyata
+before sort: bubytaa
+after sort: bubytaa
+bubytaa
+rightmost_swappable: 2
+before swap: bubytaa
+before sort: butbyaa
+after sort: butaaby
+butaaby
+rightmost_swappable: 5
+before swap: butaaby
+before sort: butaayb
+after sort: butaayb
+butaayb
+rightmost_swappable: 4
+before swap: butaayb
+before sort: butabay
+after sort: butabay
+butabay
+rightmost_swappable: 5
+before swap: butabay
+before sort: butabya
+after sort: butabya
+butabya
+rightmost_swappable: 4
+before swap: butabya
+before sort: butayba
+after sort: butayab
+butayab
+rightmost_swappable: 5
+before swap: butayab
+before sort: butayba
+after sort: butayba
+butayba
+rightmost_swappable: 3
+before swap: butayba
+before sort: butbaya
+after sort: butbaay
+butbaay
+rightmost_swappable: 5
+before swap: butbaay
+before sort: butbaya
+after sort: butbaya
+butbaya
+rightmost_swappable: 4
+before swap: butbaya
+before sort: butbyaa
+after sort: butbyaa
+butbyaa
+rightmost_swappable: 3
+before swap: butbyaa
+before sort: butybaa
+after sort: butyaab
+butyaab
+rightmost_swappable: 5
+before swap: butyaab
+before sort: butyaba
+after sort: butyaba
+butyaba
+rightmost_swappable: 4
+before swap: butyaba
+before sort: butybaa
+after sort: butybaa
+butybaa
+rightmost_swappable: 2
+before swap: butybaa
+before sort: buytbaa
+after sort: buyaabt
+buyaabt
+rightmost_swappable: 5
+before swap: buyaabt
+before sort: buyaatb
+after sort: buyaatb
+buyaatb
+rightmost_swappable: 4
+before swap: buyaatb
+before sort: buyabat
+after sort: buyabat
+buyabat
+rightmost_swappable: 5
+before swap: buyabat
+before sort: buyabta
+after sort: buyabta
+buyabta
+rightmost_swappable: 4
+before swap: buyabta
+before sort: buyatba
+after sort: buyatab
+buyatab
+rightmost_swappable: 5
+before swap: buyatab
+before sort: buyatba
+after sort: buyatba
+buyatba
+rightmost_swappable: 3
+before swap: buyatba
+before sort: buybata
+after sort: buybaat
+buybaat
+rightmost_swappable: 5
+before swap: buybaat
+before sort: buybata
+after sort: buybata
+buybata
+rightmost_swappable: 4
+before swap: buybata
+before sort: buybtaa
+after sort: buybtaa
+buybtaa
+rightmost_swappable: 3
+before swap: buybtaa
+before sort: buytbaa
+after sort: buytaab
+buytaab
+rightmost_swappable: 5
+before swap: buytaab
+before sort: buytaba
+after sort: buytaba
+buytaba
+rightmost_swappable: 4
+before swap: buytaba
+before sort: buytbaa
+after sort: buytbaa
+buytbaa
+rightmost_swappable: 1
+before swap: buytbaa
+before sort: byutbaa
+after sort: byaabtu
+byaabtu
+rightmost_swappable: 5
+before swap: byaabtu
+before sort: byaabut
+after sort: byaabut
+byaabut
+rightmost_swappable: 4
+before swap: byaabut
+before sort: byaatbu
+after sort: byaatbu
+byaatbu
+rightmost_swappable: 5
+before swap: byaatbu
+before sort: byaatub
+after sort: byaatub
+byaatub
+rightmost_swappable: 4
+before swap: byaatub
+before sort: byaautb
+after sort: byaaubt
+byaaubt
+rightmost_swappable: 5
+before swap: byaaubt
+before sort: byaautb
+after sort: byaautb
+byaautb
+rightmost_swappable: 3
+before swap: byaautb
+before sort: byabaut
+after sort: byabatu
+byabatu
+rightmost_swappable: 5
+before swap: byabatu
+before sort: byabaut
+after sort: byabaut
+byabaut
+rightmost_swappable: 4
+before swap: byabaut
+before sort: byabtau
+after sort: byabtau
+byabtau
+rightmost_swappable: 5
+before swap: byabtau
+before sort: byabtua
+after sort: byabtua
+byabtua
+rightmost_swappable: 4
+before swap: byabtua
+before sort: byabuta
+after sort: byabuat
+byabuat
+rightmost_swappable: 5
+before swap: byabuat
+before sort: byabuta
+after sort: byabuta
+byabuta
+rightmost_swappable: 3
+before swap: byabuta
+before sort: byatbua
+after sort: byatabu
+byatabu
+rightmost_swappable: 5
+before swap: byatabu
+before sort: byataub
+after sort: byataub
+byataub
+rightmost_swappable: 4
+before swap: byataub
+before sort: byatbau
+after sort: byatbau
+byatbau
+rightmost_swappable: 5
+before swap: byatbau
+before sort: byatbua
+after sort: byatbua
+byatbua
+rightmost_swappable: 4
+before swap: byatbua
+before sort: byatuba
+after sort: byatuab
+byatuab
+rightmost_swappable: 5
+before swap: byatuab
+before sort: byatuba
+after sort: byatuba
+byatuba
+rightmost_swappable: 3
+before swap: byatuba
+before sort: byautba
+after sort: byauabt
+byauabt
+rightmost_swappable: 5
+before swap: byauabt
+before sort: byauatb
+after sort: byauatb
+byauatb
+rightmost_swappable: 4
+before swap: byauatb
+before sort: byaubat
+after sort: byaubat
+byaubat
+rightmost_swappable: 5
+before swap: byaubat
+before sort: byaubta
+after sort: byaubta
+byaubta
+rightmost_swappable: 4
+before swap: byaubta
+before sort: byautba
+after sort: byautab
+byautab
+rightmost_swappable: 5
+before swap: byautab
+before sort: byautba
+after sort: byautba
+byautba
+rightmost_swappable: 2
+before swap: byautba
+before sort: bybauta
+after sort: bybaatu
+bybaatu
+rightmost_swappable: 5
+before swap: bybaatu
+before sort: bybaaut
+after sort: bybaaut
+bybaaut
+rightmost_swappable: 4
+before swap: bybaaut
+before sort: bybatau
+after sort: bybatau
+bybatau
+rightmost_swappable: 5
+before swap: bybatau
+before sort: bybatua
+after sort: bybatua
+bybatua
+rightmost_swappable: 4
+before swap: bybatua
+before sort: bybauta
+after sort: bybauat
+bybauat
+rightmost_swappable: 5
+before swap: bybauat
+before sort: bybauta
+after sort: bybauta
+bybauta
+rightmost_swappable: 3
+before swap: bybauta
+before sort: bybtaua
+after sort: bybtaau
+bybtaau
+rightmost_swappable: 5
+before swap: bybtaau
+before sort: bybtaua
+after sort: bybtaua
+bybtaua
+rightmost_swappable: 4
+before swap: bybtaua
+before sort: bybtuaa
+after sort: bybtuaa
+bybtuaa
+rightmost_swappable: 3
+before swap: bybtuaa
+before sort: bybutaa
+after sort: bybuaat
+bybuaat
+rightmost_swappable: 5
+before swap: bybuaat
+before sort: bybuata
+after sort: bybuata
+bybuata
+rightmost_swappable: 4
+before swap: bybuata
+before sort: bybutaa
+after sort: bybutaa
+bybutaa
+rightmost_swappable: 2
+before swap: bybutaa
+before sort: bytbuaa
+after sort: bytaabu
+bytaabu
+rightmost_swappable: 5
+before swap: bytaabu
+before sort: bytaaub
+after sort: bytaaub
+bytaaub
+rightmost_swappable: 4
+before swap: bytaaub
+before sort: bytabau
+after sort: bytabau
+bytabau
+rightmost_swappable: 5
+before swap: bytabau
+before sort: bytabua
+after sort: bytabua
+bytabua
+rightmost_swappable: 4
+before swap: bytabua
+before sort: bytauba
+after sort: bytauab
+bytauab
+rightmost_swappable: 5
+before swap: bytauab
+before sort: bytauba
+after sort: bytauba
+bytauba
+rightmost_swappable: 3
+before swap: bytauba
+before sort: bytbaua
+after sort: bytbaau
+bytbaau
+rightmost_swappable: 5
+before swap: bytbaau
+before sort: bytbaua
+after sort: bytbaua
+bytbaua
+rightmost_swappable: 4
+before swap: bytbaua
+before sort: bytbuaa
+after sort: bytbuaa
+bytbuaa
+rightmost_swappable: 3
+before swap: bytbuaa
+before sort: bytubaa
+after sort: bytuaab
+bytuaab
+rightmost_swappable: 5
+before swap: bytuaab
+before sort: bytuaba
+after sort: bytuaba
+bytuaba
+rightmost_swappable: 4
+before swap: bytuaba
+before sort: bytubaa
+after sort: bytubaa
+bytubaa
+rightmost_swappable: 2
+before swap: bytubaa
+before sort: byutbaa
+after sort: byuaabt
+byuaabt
+rightmost_swappable: 5
+before swap: byuaabt
+before sort: byuaatb
+after sort: byuaatb
+byuaatb
+rightmost_swappable: 4
+before swap: byuaatb
+before sort: byuabat
+after sort: byuabat
+byuabat
+rightmost_swappable: 5
+before swap: byuabat
+before sort: byuabta
+after sort: byuabta
+byuabta
+rightmost_swappable: 4
+before swap: byuabta
+before sort: byuatba
+after sort: byuatab
+byuatab
+rightmost_swappable: 5
+before swap: byuatab
+before sort: byuatba
+after sort: byuatba
+byuatba
+rightmost_swappable: 3
+before swap: byuatba
+before sort: byubata
+after sort: byubaat
+byubaat
+rightmost_swappable: 5
+before swap: byubaat
+before sort: byubata
+after sort: byubata
+byubata
+rightmost_swappable: 4
+before swap: byubata
+before sort: byubtaa
+after sort: byubtaa
+byubtaa
+rightmost_swappable: 3
+before swap: byubtaa
+before sort: byutbaa
+after sort: byutaab
+byutaab
+rightmost_swappable: 5
+before swap: byutaab
+before sort: byutaba
+after sort: byutaba
+byutaba
+rightmost_swappable: 4
+before swap: byutaba
+before sort: byutbaa
+after sort: byutbaa
+byutbaa
+rightmost_swappable: 0
+before swap: byutbaa
+before sort: tbyubaa
+after sort: taabbuy
+taabbuy
+rightmost_swappable: 5
+before swap: taabbuy
+before sort: taabbyu
+after sort: taabbyu
+taabbyu
+rightmost_swappable: 4
+before swap: taabbyu
+before sort: taabuby
+after sort: taabuby
+taabuby
+rightmost_swappable: 5
+before swap: taabuby
+before sort: taabuyb
+after sort: taabuyb
+taabuyb
+rightmost_swappable: 4
+before swap: taabuyb
+before sort: taabyub
+after sort: taabybu
+taabybu
+rightmost_swappable: 5
+before swap: taabybu
+before sort: taabyub
+after sort: taabyub
+taabyub
+rightmost_swappable: 3
+before swap: taabyub
+before sort: taaubyb
+after sort: taaubby
+taaubby
+rightmost_swappable: 5
+before swap: taaubby
+before sort: taaubyb
+after sort: taaubyb
+taaubyb
+rightmost_swappable: 4
+before swap: taaubyb
+before sort: taauybb
+after sort: taauybb
+taauybb
+rightmost_swappable: 3
+before swap: taauybb
+before sort: taayubb
+after sort: taaybbu
+taaybbu
+rightmost_swappable: 5
+before swap: taaybbu
+before sort: taaybub
+after sort: taaybub
+taaybub
+rightmost_swappable: 4
+before swap: taaybub
+before sort: taayubb
+after sort: taayubb
+taayubb
+rightmost_swappable: 2
+before swap: taayubb
+before sort: tabayub
+after sort: tababuy
+tababuy
+rightmost_swappable: 5
+before swap: tababuy
+before sort: tababyu
+after sort: tababyu
+tababyu
+rightmost_swappable: 4
+before swap: tababyu
+before sort: tabauby
+after sort: tabauby
+tabauby
+rightmost_swappable: 5
+before swap: tabauby
+before sort: tabauyb
+after sort: tabauyb
+tabauyb
+rightmost_swappable: 4
+before swap: tabauyb
+before sort: tabayub
+after sort: tabaybu
+tabaybu
+rightmost_swappable: 5
+before swap: tabaybu
+before sort: tabayub
+after sort: tabayub
+tabayub
+rightmost_swappable: 3
+before swap: tabayub
+before sort: tabbayu
+after sort: tabbauy
+tabbauy
+rightmost_swappable: 5
+before swap: tabbauy
+before sort: tabbayu
+after sort: tabbayu
+tabbayu
+rightmost_swappable: 4
+before swap: tabbayu
+before sort: tabbuay
+after sort: tabbuay
+tabbuay
+rightmost_swappable: 5
+before swap: tabbuay
+before sort: tabbuya
+after sort: tabbuya
+tabbuya
+rightmost_swappable: 4
+before swap: tabbuya
+before sort: tabbyua
+after sort: tabbyau
+tabbyau
+rightmost_swappable: 5
+before swap: tabbyau
+before sort: tabbyua
+after sort: tabbyua
+tabbyua
+rightmost_swappable: 3
+before swap: tabbyua
+before sort: tabubya
+after sort: tabuaby
+tabuaby
+rightmost_swappable: 5
+before swap: tabuaby
+before sort: tabuayb
+after sort: tabuayb
+tabuayb
+rightmost_swappable: 4
+before swap: tabuayb
+before sort: tabubay
+after sort: tabubay
+tabubay
+rightmost_swappable: 5
+before swap: tabubay
+before sort: tabubya
+after sort: tabubya
+tabubya
+rightmost_swappable: 4
+before swap: tabubya
+before sort: tabuyba
+after sort: tabuyab
+tabuyab
+rightmost_swappable: 5
+before swap: tabuyab
+before sort: tabuyba
+after sort: tabuyba
+tabuyba
+rightmost_swappable: 3
+before swap: tabuyba
+before sort: tabyuba
+after sort: tabyabu
+tabyabu
+rightmost_swappable: 5
+before swap: tabyabu
+before sort: tabyaub
+after sort: tabyaub
+tabyaub
+rightmost_swappable: 4
+before swap: tabyaub
+before sort: tabybau
+after sort: tabybau
+tabybau
+rightmost_swappable: 5
+before swap: tabybau
+before sort: tabybua
+after sort: tabybua
+tabybua
+rightmost_swappable: 4
+before swap: tabybua
+before sort: tabyuba
+after sort: tabyuab
+tabyuab
+rightmost_swappable: 5
+before swap: tabyuab
+before sort: tabyuba
+after sort: tabyuba
+tabyuba
+rightmost_swappable: 2
+before swap: tabyuba
+before sort: taubyba
+after sort: tauabby
+tauabby
+rightmost_swappable: 5
+before swap: tauabby
+before sort: tauabyb
+after sort: tauabyb
+tauabyb
+rightmost_swappable: 4
+before swap: tauabyb
+before sort: tauaybb
+after sort: tauaybb
+tauaybb
+rightmost_swappable: 3
+before swap: tauaybb
+before sort: taubayb
+after sort: taubaby
+taubaby
+rightmost_swappable: 5
+before swap: taubaby
+before sort: taubayb
+after sort: taubayb
+taubayb
+rightmost_swappable: 4
+before swap: taubayb
+before sort: taubbay
+after sort: taubbay
+taubbay
+rightmost_swappable: 5
+before swap: taubbay
+before sort: taubbya
+after sort: taubbya
+taubbya
+rightmost_swappable: 4
+before swap: taubbya
+before sort: taubyba
+after sort: taubyab
+taubyab
+rightmost_swappable: 5
+before swap: taubyab
+before sort: taubyba
+after sort: taubyba
+taubyba
+rightmost_swappable: 3
+before swap: taubyba
+before sort: tauybba
+after sort: tauyabb
+tauyabb
+rightmost_swappable: 4
+before swap: tauyabb
+before sort: tauybab
+after sort: tauybab
+tauybab
+rightmost_swappable: 5
+before swap: tauybab
+before sort: tauybba
+after sort: tauybba
+tauybba
+rightmost_swappable: 2
+before swap: tauybba
+before sort: tayubba
+after sort: tayabbu
+tayabbu
+rightmost_swappable: 5
+before swap: tayabbu
+before sort: tayabub
+after sort: tayabub
+tayabub
+rightmost_swappable: 4
+before swap: tayabub
+before sort: tayaubb
+after sort: tayaubb
+tayaubb
+rightmost_swappable: 3
+before swap: tayaubb
+before sort: taybaub
+after sort: taybabu
+taybabu
+rightmost_swappable: 5
+before swap: taybabu
+before sort: taybaub
+after sort: taybaub
+taybaub
+rightmost_swappable: 4
+before swap: taybaub
+before sort: taybbau
+after sort: taybbau
+taybbau
+rightmost_swappable: 5
+before swap: taybbau
+before sort: taybbua
+after sort: taybbua
+taybbua
+rightmost_swappable: 4
+before swap: taybbua
+before sort: taybuba
+after sort: taybuab
+taybuab
+rightmost_swappable: 5
+before swap: taybuab
+before sort: taybuba
+after sort: taybuba
+taybuba
+rightmost_swappable: 3
+before swap: taybuba
+before sort: tayubba
+after sort: tayuabb
+tayuabb
+rightmost_swappable: 4
+before swap: tayuabb
+before sort: tayubab
+after sort: tayubab
+tayubab
+rightmost_swappable: 5
+before swap: tayubab
+before sort: tayubba
+after sort: tayubba
+tayubba
+rightmost_swappable: 1
+before swap: tayubba
+before sort: tbayuba
+after sort: tbaabuy
+tbaabuy
+rightmost_swappable: 5
+before swap: tbaabuy
+before sort: tbaabyu
+after sort: tbaabyu
+tbaabyu
+rightmost_swappable: 4
+before swap: tbaabyu
+before sort: tbaauby
+after sort: tbaauby
+tbaauby
+rightmost_swappable: 5
+before swap: tbaauby
+before sort: tbaauyb
+after sort: tbaauyb
+tbaauyb
+rightmost_swappable: 4
+before swap: tbaauyb
+before sort: tbaayub
+after sort: tbaaybu
+tbaaybu
+rightmost_swappable: 5
+before swap: tbaaybu
+before sort: tbaayub
+after sort: tbaayub
+tbaayub
+rightmost_swappable: 3
+before swap: tbaayub
+before sort: tbabayu
+after sort: tbabauy
+tbabauy
+rightmost_swappable: 5
+before swap: tbabauy
+before sort: tbabayu
+after sort: tbabayu
+tbabayu
+rightmost_swappable: 4
+before swap: tbabayu
+before sort: tbabuay
+after sort: tbabuay
+tbabuay
+rightmost_swappable: 5
+before swap: tbabuay
+before sort: tbabuya
+after sort: tbabuya
+tbabuya
+rightmost_swappable: 4
+before swap: tbabuya
+before sort: tbabyua
+after sort: tbabyau
+tbabyau
+rightmost_swappable: 5
+before swap: tbabyau
+before sort: tbabyua
+after sort: tbabyua
+tbabyua
+rightmost_swappable: 3
+before swap: tbabyua
+before sort: tbaubya
+after sort: tbauaby
+tbauaby
+rightmost_swappable: 5
+before swap: tbauaby
+before sort: tbauayb
+after sort: tbauayb
+tbauayb
+rightmost_swappable: 4
+before swap: tbauayb
+before sort: tbaubay
+after sort: tbaubay
+tbaubay
+rightmost_swappable: 5
+before swap: tbaubay
+before sort: tbaubya
+after sort: tbaubya
+tbaubya
+rightmost_swappable: 4
+before swap: tbaubya
+before sort: tbauyba
+after sort: tbauyab
+tbauyab
+rightmost_swappable: 5
+before swap: tbauyab
+before sort: tbauyba
+after sort: tbauyba
+tbauyba
+rightmost_swappable: 3
+before swap: tbauyba
+before sort: tbayuba
+after sort: tbayabu
+tbayabu
+rightmost_swappable: 5
+before swap: tbayabu
+before sort: tbayaub
+after sort: tbayaub
+tbayaub
+rightmost_swappable: 4
+before swap: tbayaub
+before sort: tbaybau
+after sort: tbaybau
+tbaybau
+rightmost_swappable: 5
+before swap: tbaybau
+before sort: tbaybua
+after sort: tbaybua
+tbaybua
+rightmost_swappable: 4
+before swap: tbaybua
+before sort: tbayuba
+after sort: tbayuab
+tbayuab
+rightmost_swappable: 5
+before swap: tbayuab
+before sort: tbayuba
+after sort: tbayuba
+tbayuba
+rightmost_swappable: 2
+before swap: tbayuba
+before sort: tbbayua
+after sort: tbbaauy
+tbbaauy
+rightmost_swappable: 5
+before swap: tbbaauy
+before sort: tbbaayu
+after sort: tbbaayu
+tbbaayu
+rightmost_swappable: 4
+before swap: tbbaayu
+before sort: tbbauay
+after sort: tbbauay
+tbbauay
+rightmost_swappable: 5
+before swap: tbbauay
+before sort: tbbauya
+after sort: tbbauya
+tbbauya
+rightmost_swappable: 4
+before swap: tbbauya
+before sort: tbbayua
+after sort: tbbayau
+tbbayau
+rightmost_swappable: 5
+before swap: tbbayau
+before sort: tbbayua
+after sort: tbbayua
+tbbayua
+rightmost_swappable: 3
+before swap: tbbayua
+before sort: tbbuaya
+after sort: tbbuaay
+tbbuaay
+rightmost_swappable: 5
+before swap: tbbuaay
+before sort: tbbuaya
+after sort: tbbuaya
+tbbuaya
+rightmost_swappable: 4
+before swap: tbbuaya
+before sort: tbbuyaa
+after sort: tbbuyaa
+tbbuyaa
+rightmost_swappable: 3
+before swap: tbbuyaa
+before sort: tbbyuaa
+after sort: tbbyaau
+tbbyaau
+rightmost_swappable: 5
+before swap: tbbyaau
+before sort: tbbyaua
+after sort: tbbyaua
+tbbyaua
+rightmost_swappable: 4
+before swap: tbbyaua
+before sort: tbbyuaa
+after sort: tbbyuaa
+tbbyuaa
+rightmost_swappable: 2
+before swap: tbbyuaa
+before sort: tbubyaa
+after sort: tbuaaby
+tbuaaby
+rightmost_swappable: 5
+before swap: tbuaaby
+before sort: tbuaayb
+after sort: tbuaayb
+tbuaayb
+rightmost_swappable: 4
+before swap: tbuaayb
+before sort: tbuabay
+after sort: tbuabay
+tbuabay
+rightmost_swappable: 5
+before swap: tbuabay
+before sort: tbuabya
+after sort: tbuabya
+tbuabya
+rightmost_swappable: 4
+before swap: tbuabya
+before sort: tbuayba
+after sort: tbuayab
+tbuayab
+rightmost_swappable: 5
+before swap: tbuayab
+before sort: tbuayba
+after sort: tbuayba
+tbuayba
+rightmost_swappable: 3
+before swap: tbuayba
+before sort: tbubaya
+after sort: tbubaay
+tbubaay
+rightmost_swappable: 5
+before swap: tbubaay
+before sort: tbubaya
+after sort: tbubaya
+tbubaya
+rightmost_swappable: 4
+before swap: tbubaya
+before sort: tbubyaa
+after sort: tbubyaa
+tbubyaa
+rightmost_swappable: 3
+before swap: tbubyaa
+before sort: tbuybaa
+after sort: tbuyaab
+tbuyaab
+rightmost_swappable: 5
+before swap: tbuyaab
+before sort: tbuyaba
+after sort: tbuyaba
+tbuyaba
+rightmost_swappable: 4
+before swap: tbuyaba
+before sort: tbuybaa
+after sort: tbuybaa
+tbuybaa
+rightmost_swappable: 2
+before swap: tbuybaa
+before sort: tbyubaa
+after sort: tbyaabu
+tbyaabu
+rightmost_swappable: 5
+before swap: tbyaabu
+before sort: tbyaaub
+after sort: tbyaaub
+tbyaaub
+rightmost_swappable: 4
+before swap: tbyaaub
+before sort: tbyabau
+after sort: tbyabau
+tbyabau
+rightmost_swappable: 5
+before swap: tbyabau
+before sort: tbyabua
+after sort: tbyabua
+tbyabua
+rightmost_swappable: 4
+before swap: tbyabua
+before sort: tbyauba
+after sort: tbyauab
+tbyauab
+rightmost_swappable: 5
+before swap: tbyauab
+before sort: tbyauba
+after sort: tbyauba
+tbyauba
+rightmost_swappable: 3
+before swap: tbyauba
+before sort: tbybaua
+after sort: tbybaau
+tbybaau
+rightmost_swappable: 5
+before swap: tbybaau
+before sort: tbybaua
+after sort: tbybaua
+tbybaua
+rightmost_swappable: 4
+before swap: tbybaua
+before sort: tbybuaa
+after sort: tbybuaa
+tbybuaa
+rightmost_swappable: 3
+before swap: tbybuaa
+before sort: tbyubaa
+after sort: tbyuaab
+tbyuaab
+rightmost_swappable: 5
+before swap: tbyuaab
+before sort: tbyuaba
+after sort: tbyuaba
+tbyuaba
+rightmost_swappable: 4
+before swap: tbyuaba
+before sort: tbyubaa
+after sort: tbyubaa
+tbyubaa
+rightmost_swappable: 1
+before swap: tbyubaa
+before sort: tubybaa
+after sort: tuaabby
+tuaabby
+rightmost_swappable: 5
+before swap: tuaabby
+before sort: tuaabyb
+after sort: tuaabyb
+tuaabyb
+rightmost_swappable: 4
+before swap: tuaabyb
+before sort: tuaaybb
+after sort: tuaaybb
+tuaaybb
+rightmost_swappable: 3
+before swap: tuaaybb
+before sort: tuabayb
+after sort: tuababy
+tuababy
+rightmost_swappable: 5
+before swap: tuababy
+before sort: tuabayb
+after sort: tuabayb
+tuabayb
+rightmost_swappable: 4
+before swap: tuabayb
+before sort: tuabbay
+after sort: tuabbay
+tuabbay
+rightmost_swappable: 5
+before swap: tuabbay
+before sort: tuabbya
+after sort: tuabbya
+tuabbya
+rightmost_swappable: 4
+before swap: tuabbya
+before sort: tuabyba
+after sort: tuabyab
+tuabyab
+rightmost_swappable: 5
+before swap: tuabyab
+before sort: tuabyba
+after sort: tuabyba
+tuabyba
+rightmost_swappable: 3
+before swap: tuabyba
+before sort: tuaybba
+after sort: tuayabb
+tuayabb
+rightmost_swappable: 4
+before swap: tuayabb
+before sort: tuaybab
+after sort: tuaybab
+tuaybab
+rightmost_swappable: 5
+before swap: tuaybab
+before sort: tuaybba
+after sort: tuaybba
+tuaybba
+rightmost_swappable: 2
+before swap: tuaybba
+before sort: tubayba
+after sort: tubaaby
+tubaaby
+rightmost_swappable: 5
+before swap: tubaaby
+before sort: tubaayb
+after sort: tubaayb
+tubaayb
+rightmost_swappable: 4
+before swap: tubaayb
+before sort: tubabay
+after sort: tubabay
+tubabay
+rightmost_swappable: 5
+before swap: tubabay
+before sort: tubabya
+after sort: tubabya
+tubabya
+rightmost_swappable: 4
+before swap: tubabya
+before sort: tubayba
+after sort: tubayab
+tubayab
+rightmost_swappable: 5
+before swap: tubayab
+before sort: tubayba
+after sort: tubayba
+tubayba
+rightmost_swappable: 3
+before swap: tubayba
+before sort: tubbaya
+after sort: tubbaay
+tubbaay
+rightmost_swappable: 5
+before swap: tubbaay
+before sort: tubbaya
+after sort: tubbaya
+tubbaya
+rightmost_swappable: 4
+before swap: tubbaya
+before sort: tubbyaa
+after sort: tubbyaa
+tubbyaa
+rightmost_swappable: 3
+before swap: tubbyaa
+before sort: tubybaa
+after sort: tubyaab
+tubyaab
+rightmost_swappable: 5
+before swap: tubyaab
+before sort: tubyaba
+after sort: tubyaba
+tubyaba
+rightmost_swappable: 4
+before swap: tubyaba
+before sort: tubybaa
+after sort: tubybaa
+tubybaa
+rightmost_swappable: 2
+before swap: tubybaa
+before sort: tuybbaa
+after sort: tuyaabb
+tuyaabb
+rightmost_swappable: 4
+before swap: tuyaabb
+before sort: tuyabab
+after sort: tuyabab
+tuyabab
+rightmost_swappable: 5
+before swap: tuyabab
+before sort: tuyabba
+after sort: tuyabba
+tuyabba
+rightmost_swappable: 3
+before swap: tuyabba
+before sort: tuybaba
+after sort: tuybaab
+tuybaab
+rightmost_swappable: 5
+before swap: tuybaab
+before sort: tuybaba
+after sort: tuybaba
+tuybaba
+rightmost_swappable: 4
+before swap: tuybaba
+before sort: tuybbaa
+after sort: tuybbaa
+tuybbaa
+rightmost_swappable: 1
+before swap: tuybbaa
+before sort: tyubbaa
+after sort: tyaabbu
+tyaabbu
+rightmost_swappable: 5
+before swap: tyaabbu
+before sort: tyaabub
+after sort: tyaabub
+tyaabub
+rightmost_swappable: 4
+before swap: tyaabub
+before sort: tyaaubb
+after sort: tyaaubb
+tyaaubb
+rightmost_swappable: 3
+before swap: tyaaubb
+before sort: tyabaub
+after sort: tyababu
+tyababu
+rightmost_swappable: 5
+before swap: tyababu
+before sort: tyabaub
+after sort: tyabaub
+tyabaub
+rightmost_swappable: 4
+before swap: tyabaub
+before sort: tyabbau
+after sort: tyabbau
+tyabbau
+rightmost_swappable: 5
+before swap: tyabbau
+before sort: tyabbua
+after sort: tyabbua
+tyabbua
+rightmost_swappable: 4
+before swap: tyabbua
+before sort: tyabuba
+after sort: tyabuab
+tyabuab
+rightmost_swappable: 5
+before swap: tyabuab
+before sort: tyabuba
+after sort: tyabuba
+tyabuba
+rightmost_swappable: 3
+before swap: tyabuba
+before sort: tyaubba
+after sort: tyauabb
+tyauabb
+rightmost_swappable: 4
+before swap: tyauabb
+before sort: tyaubab
+after sort: tyaubab
+tyaubab
+rightmost_swappable: 5
+before swap: tyaubab
+before sort: tyaubba
+after sort: tyaubba
+tyaubba
+rightmost_swappable: 2
+before swap: tyaubba
+before sort: tybauba
+after sort: tybaabu
+tybaabu
+rightmost_swappable: 5
+before swap: tybaabu
+before sort: tybaaub
+after sort: tybaaub
+tybaaub
+rightmost_swappable: 4
+before swap: tybaaub
+before sort: tybabau
+after sort: tybabau
+tybabau
+rightmost_swappable: 5
+before swap: tybabau
+before sort: tybabua
+after sort: tybabua
+tybabua
+rightmost_swappable: 4
+before swap: tybabua
+before sort: tybauba
+after sort: tybauab
+tybauab
+rightmost_swappable: 5
+before swap: tybauab
+before sort: tybauba
+after sort: tybauba
+tybauba
+rightmost_swappable: 3
+before swap: tybauba
+before sort: tybbaua
+after sort: tybbaau
+tybbaau
+rightmost_swappable: 5
+before swap: tybbaau
+before sort: tybbaua
+after sort: tybbaua
+tybbaua
+rightmost_swappable: 4
+before swap: tybbaua
+before sort: tybbuaa
+after sort: tybbuaa
+tybbuaa
+rightmost_swappable: 3
+before swap: tybbuaa
+before sort: tybubaa
+after sort: tybuaab
+tybuaab
+rightmost_swappable: 5
+before swap: tybuaab
+before sort: tybuaba
+after sort: tybuaba
+tybuaba
+rightmost_swappable: 4
+before swap: tybuaba
+before sort: tybubaa
+after sort: tybubaa
+tybubaa
+rightmost_swappable: 2
+before swap: tybubaa
+before sort: tyubbaa
+after sort: tyuaabb
+tyuaabb
+rightmost_swappable: 4
+before swap: tyuaabb
+before sort: tyuabab
+after sort: tyuabab
+tyuabab
+rightmost_swappable: 5
+before swap: tyuabab
+before sort: tyuabba
+after sort: tyuabba
+tyuabba
+rightmost_swappable: 3
+before swap: tyuabba
+before sort: tyubaba
+after sort: tyubaab
+tyubaab
+rightmost_swappable: 5
+before swap: tyubaab
+before sort: tyubaba
+after sort: tyubaba
+tyubaba
+rightmost_swappable: 4
+before swap: tyubaba
+before sort: tyubbaa
+after sort: tyubbaa
+tyubbaa
+rightmost_swappable: 0
+before swap: tyubbaa
+before sort: utybbaa
+after sort: uaabbty
+uaabbty
+rightmost_swappable: 5
+before swap: uaabbty
+before sort: uaabbyt
+after sort: uaabbyt
+uaabbyt
+rightmost_swappable: 4
+before swap: uaabbyt
+before sort: uaabtby
+after sort: uaabtby
+uaabtby
+rightmost_swappable: 5
+before swap: uaabtby
+before sort: uaabtyb
+after sort: uaabtyb
+uaabtyb
+rightmost_swappable: 4
+before swap: uaabtyb
+before sort: uaabytb
+after sort: uaabybt
+uaabybt
+rightmost_swappable: 5
+before swap: uaabybt
+before sort: uaabytb
+after sort: uaabytb
+uaabytb
+rightmost_swappable: 3
+before swap: uaabytb
+before sort: uaatbyb
+after sort: uaatbby
+uaatbby
+rightmost_swappable: 5
+before swap: uaatbby
+before sort: uaatbyb
+after sort: uaatbyb
+uaatbyb
+rightmost_swappable: 4
+before swap: uaatbyb
+before sort: uaatybb
+after sort: uaatybb
+uaatybb
+rightmost_swappable: 3
+before swap: uaatybb
+before sort: uaaytbb
+after sort: uaaybbt
+uaaybbt
+rightmost_swappable: 5
+before swap: uaaybbt
+before sort: uaaybtb
+after sort: uaaybtb
+uaaybtb
+rightmost_swappable: 4
+before swap: uaaybtb
+before sort: uaaytbb
+after sort: uaaytbb
+uaaytbb
+rightmost_swappable: 2
+before swap: uaaytbb
+before sort: uabaytb
+after sort: uababty
+uababty
+rightmost_swappable: 5
+before swap: uababty
+before sort: uababyt
+after sort: uababyt
+uababyt
+rightmost_swappable: 4
+before swap: uababyt
+before sort: uabatby
+after sort: uabatby
+uabatby
+rightmost_swappable: 5
+before swap: uabatby
+before sort: uabatyb
+after sort: uabatyb
+uabatyb
+rightmost_swappable: 4
+before swap: uabatyb
+before sort: uabaytb
+after sort: uabaybt
+uabaybt
+rightmost_swappable: 5
+before swap: uabaybt
+before sort: uabaytb
+after sort: uabaytb
+uabaytb
+rightmost_swappable: 3
+before swap: uabaytb
+before sort: uabbayt
+after sort: uabbaty
+uabbaty
+rightmost_swappable: 5
+before swap: uabbaty
+before sort: uabbayt
+after sort: uabbayt
+uabbayt
+rightmost_swappable: 4
+before swap: uabbayt
+before sort: uabbtay
+after sort: uabbtay
+uabbtay
+rightmost_swappable: 5
+before swap: uabbtay
+before sort: uabbtya
+after sort: uabbtya
+uabbtya
+rightmost_swappable: 4
+before swap: uabbtya
+before sort: uabbyta
+after sort: uabbyat
+uabbyat
+rightmost_swappable: 5
+before swap: uabbyat
+before sort: uabbyta
+after sort: uabbyta
+uabbyta
+rightmost_swappable: 3
+before swap: uabbyta
+before sort: uabtbya
+after sort: uabtaby
+uabtaby
+rightmost_swappable: 5
+before swap: uabtaby
+before sort: uabtayb
+after sort: uabtayb
+uabtayb
+rightmost_swappable: 4
+before swap: uabtayb
+before sort: uabtbay
+after sort: uabtbay
+uabtbay
+rightmost_swappable: 5
+before swap: uabtbay
+before sort: uabtbya
+after sort: uabtbya
+uabtbya
+rightmost_swappable: 4
+before swap: uabtbya
+before sort: uabtyba
+after sort: uabtyab
+uabtyab
+rightmost_swappable: 5
+before swap: uabtyab
+before sort: uabtyba
+after sort: uabtyba
+uabtyba
+rightmost_swappable: 3
+before swap: uabtyba
+before sort: uabytba
+after sort: uabyabt
+uabyabt
+rightmost_swappable: 5
+before swap: uabyabt
+before sort: uabyatb
+after sort: uabyatb
+uabyatb
+rightmost_swappable: 4
+before swap: uabyatb
+before sort: uabybat
+after sort: uabybat
+uabybat
+rightmost_swappable: 5
+before swap: uabybat
+before sort: uabybta
+after sort: uabybta
+uabybta
+rightmost_swappable: 4
+before swap: uabybta
+before sort: uabytba
+after sort: uabytab
+uabytab
+rightmost_swappable: 5
+before swap: uabytab
+before sort: uabytba
+after sort: uabytba
+uabytba
+rightmost_swappable: 2
+before swap: uabytba
+before sort: uatbyba
+after sort: uatabby
+uatabby
+rightmost_swappable: 5
+before swap: uatabby
+before sort: uatabyb
+after sort: uatabyb
+uatabyb
+rightmost_swappable: 4
+before swap: uatabyb
+before sort: uataybb
+after sort: uataybb
+uataybb
+rightmost_swappable: 3
+before swap: uataybb
+before sort: uatbayb
+after sort: uatbaby
+uatbaby
+rightmost_swappable: 5
+before swap: uatbaby
+before sort: uatbayb
+after sort: uatbayb
+uatbayb
+rightmost_swappable: 4
+before swap: uatbayb
+before sort: uatbbay
+after sort: uatbbay
+uatbbay
+rightmost_swappable: 5
+before swap: uatbbay
+before sort: uatbbya
+after sort: uatbbya
+uatbbya
+rightmost_swappable: 4
+before swap: uatbbya
+before sort: uatbyba
+after sort: uatbyab
+uatbyab
+rightmost_swappable: 5
+before swap: uatbyab
+before sort: uatbyba
+after sort: uatbyba
+uatbyba
+rightmost_swappable: 3
+before swap: uatbyba
+before sort: uatybba
+after sort: uatyabb
+uatyabb
+rightmost_swappable: 4
+before swap: uatyabb
+before sort: uatybab
+after sort: uatybab
+uatybab
+rightmost_swappable: 5
+before swap: uatybab
+before sort: uatybba
+after sort: uatybba
+uatybba
+rightmost_swappable: 2
+before swap: uatybba
+before sort: uaytbba
+after sort: uayabbt
+uayabbt
+rightmost_swappable: 5
+before swap: uayabbt
+before sort: uayabtb
+after sort: uayabtb
+uayabtb
+rightmost_swappable: 4
+before swap: uayabtb
+before sort: uayatbb
+after sort: uayatbb
+uayatbb
+rightmost_swappable: 3
+before swap: uayatbb
+before sort: uaybatb
+after sort: uaybabt
+uaybabt
+rightmost_swappable: 5
+before swap: uaybabt
+before sort: uaybatb
+after sort: uaybatb
+uaybatb
+rightmost_swappable: 4
+before swap: uaybatb
+before sort: uaybbat
+after sort: uaybbat
+uaybbat
+rightmost_swappable: 5
+before swap: uaybbat
+before sort: uaybbta
+after sort: uaybbta
+uaybbta
+rightmost_swappable: 4
+before swap: uaybbta
+before sort: uaybtba
+after sort: uaybtab
+uaybtab
+rightmost_swappable: 5
+before swap: uaybtab
+before sort: uaybtba
+after sort: uaybtba
+uaybtba
+rightmost_swappable: 3
+before swap: uaybtba
+before sort: uaytbba
+after sort: uaytabb
+uaytabb
+rightmost_swappable: 4
+before swap: uaytabb
+before sort: uaytbab
+after sort: uaytbab
+uaytbab
+rightmost_swappable: 5
+before swap: uaytbab
+before sort: uaytbba
+after sort: uaytbba
+uaytbba
+rightmost_swappable: 1
+before swap: uaytbba
+before sort: ubaytba
+after sort: ubaabty
+ubaabty
+rightmost_swappable: 5
+before swap: ubaabty
+before sort: ubaabyt
+after sort: ubaabyt
+ubaabyt
+rightmost_swappable: 4
+before swap: ubaabyt
+before sort: ubaatby
+after sort: ubaatby
+ubaatby
+rightmost_swappable: 5
+before swap: ubaatby
+before sort: ubaatyb
+after sort: ubaatyb
+ubaatyb
+rightmost_swappable: 4
+before swap: ubaatyb
+before sort: ubaaytb
+after sort: ubaaybt
+ubaaybt
+rightmost_swappable: 5
+before swap: ubaaybt
+before sort: ubaaytb
+after sort: ubaaytb
+ubaaytb
+rightmost_swappable: 3
+before swap: ubaaytb
+before sort: ubabayt
+after sort: ubabaty
+ubabaty
+rightmost_swappable: 5
+before swap: ubabaty
+before sort: ubabayt
+after sort: ubabayt
+ubabayt
+rightmost_swappable: 4
+before swap: ubabayt
+before sort: ubabtay
+after sort: ubabtay
+ubabtay
+rightmost_swappable: 5
+before swap: ubabtay
+before sort: ubabtya
+after sort: ubabtya
+ubabtya
+rightmost_swappable: 4
+before swap: ubabtya
+before sort: ubabyta
+after sort: ubabyat
+ubabyat
+rightmost_swappable: 5
+before swap: ubabyat
+before sort: ubabyta
+after sort: ubabyta
+ubabyta
+rightmost_swappable: 3
+before swap: ubabyta
+before sort: ubatbya
+after sort: ubataby
+ubataby
+rightmost_swappable: 5
+before swap: ubataby
+before sort: ubatayb
+after sort: ubatayb
+ubatayb
+rightmost_swappable: 4
+before swap: ubatayb
+before sort: ubatbay
+after sort: ubatbay
+ubatbay
+rightmost_swappable: 5
+before swap: ubatbay
+before sort: ubatbya
+after sort: ubatbya
+ubatbya
+rightmost_swappable: 4
+before swap: ubatbya
+before sort: ubatyba
+after sort: ubatyab
+ubatyab
+rightmost_swappable: 5
+before swap: ubatyab
+before sort: ubatyba
+after sort: ubatyba
+ubatyba
+rightmost_swappable: 3
+before swap: ubatyba
+before sort: ubaytba
+after sort: ubayabt
+ubayabt
+rightmost_swappable: 5
+before swap: ubayabt
+before sort: ubayatb
+after sort: ubayatb
+ubayatb
+rightmost_swappable: 4
+before swap: ubayatb
+before sort: ubaybat
+after sort: ubaybat
+ubaybat
+rightmost_swappable: 5
+before swap: ubaybat
+before sort: ubaybta
+after sort: ubaybta
+ubaybta
+rightmost_swappable: 4
+before swap: ubaybta
+before sort: ubaytba
+after sort: ubaytab
+ubaytab
+rightmost_swappable: 5
+before swap: ubaytab
+before sort: ubaytba
+after sort: ubaytba
+ubaytba
+rightmost_swappable: 2
+before swap: ubaytba
+before sort: ubbayta
+after sort: ubbaaty
+ubbaaty
+rightmost_swappable: 5
+before swap: ubbaaty
+before sort: ubbaayt
+after sort: ubbaayt
+ubbaayt
+rightmost_swappable: 4
+before swap: ubbaayt
+before sort: ubbatay
+after sort: ubbatay
+ubbatay
+rightmost_swappable: 5
+before swap: ubbatay
+before sort: ubbatya
+after sort: ubbatya
+ubbatya
+rightmost_swappable: 4
+before swap: ubbatya
+before sort: ubbayta
+after sort: ubbayat
+ubbayat
+rightmost_swappable: 5
+before swap: ubbayat
+before sort: ubbayta
+after sort: ubbayta
+ubbayta
+rightmost_swappable: 3
+before swap: ubbayta
+before sort: ubbtaya
+after sort: ubbtaay
+ubbtaay
+rightmost_swappable: 5
+before swap: ubbtaay
+before sort: ubbtaya
+after sort: ubbtaya
+ubbtaya
+rightmost_swappable: 4
+before swap: ubbtaya
+before sort: ubbtyaa
+after sort: ubbtyaa
+ubbtyaa
+rightmost_swappable: 3
+before swap: ubbtyaa
+before sort: ubbytaa
+after sort: ubbyaat
+ubbyaat
+rightmost_swappable: 5
+before swap: ubbyaat
+before sort: ubbyata
+after sort: ubbyata
+ubbyata
+rightmost_swappable: 4
+before swap: ubbyata
+before sort: ubbytaa
+after sort: ubbytaa
+ubbytaa
+rightmost_swappable: 2
+before swap: ubbytaa
+before sort: ubtbyaa
+after sort: ubtaaby
+ubtaaby
+rightmost_swappable: 5
+before swap: ubtaaby
+before sort: ubtaayb
+after sort: ubtaayb
+ubtaayb
+rightmost_swappable: 4
+before swap: ubtaayb
+before sort: ubtabay
+after sort: ubtabay
+ubtabay
+rightmost_swappable: 5
+before swap: ubtabay
+before sort: ubtabya
+after sort: ubtabya
+ubtabya
+rightmost_swappable: 4
+before swap: ubtabya
+before sort: ubtayba
+after sort: ubtayab
+ubtayab
+rightmost_swappable: 5
+before swap: ubtayab
+before sort: ubtayba
+after sort: ubtayba
+ubtayba
+rightmost_swappable: 3
+before swap: ubtayba
+before sort: ubtbaya
+after sort: ubtbaay
+ubtbaay
+rightmost_swappable: 5
+before swap: ubtbaay
+before sort: ubtbaya
+after sort: ubtbaya
+ubtbaya
+rightmost_swappable: 4
+before swap: ubtbaya
+before sort: ubtbyaa
+after sort: ubtbyaa
+ubtbyaa
+rightmost_swappable: 3
+before swap: ubtbyaa
+before sort: ubtybaa
+after sort: ubtyaab
+ubtyaab
+rightmost_swappable: 5
+before swap: ubtyaab
+before sort: ubtyaba
+after sort: ubtyaba
+ubtyaba
+rightmost_swappable: 4
+before swap: ubtyaba
+before sort: ubtybaa
+after sort: ubtybaa
+ubtybaa
+rightmost_swappable: 2
+before swap: ubtybaa
+before sort: ubytbaa
+after sort: ubyaabt
+ubyaabt
+rightmost_swappable: 5
+before swap: ubyaabt
+before sort: ubyaatb
+after sort: ubyaatb
+ubyaatb
+rightmost_swappable: 4
+before swap: ubyaatb
+before sort: ubyabat
+after sort: ubyabat
+ubyabat
+rightmost_swappable: 5
+before swap: ubyabat
+before sort: ubyabta
+after sort: ubyabta
+ubyabta
+rightmost_swappable: 4
+before swap: ubyabta
+before sort: ubyatba
+after sort: ubyatab
+ubyatab
+rightmost_swappable: 5
+before swap: ubyatab
+before sort: ubyatba
+after sort: ubyatba
+ubyatba
+rightmost_swappable: 3
+before swap: ubyatba
+before sort: ubybata
+after sort: ubybaat
+ubybaat
+rightmost_swappable: 5
+before swap: ubybaat
+before sort: ubybata
+after sort: ubybata
+ubybata
+rightmost_swappable: 4
+before swap: ubybata
+before sort: ubybtaa
+after sort: ubybtaa
+ubybtaa
+rightmost_swappable: 3
+before swap: ubybtaa
+before sort: ubytbaa
+after sort: ubytaab
+ubytaab
+rightmost_swappable: 5
+before swap: ubytaab
+before sort: ubytaba
+after sort: ubytaba
+ubytaba
+rightmost_swappable: 4
+before swap: ubytaba
+before sort: ubytbaa
+after sort: ubytbaa
+ubytbaa
+rightmost_swappable: 1
+before swap: ubytbaa
+before sort: utbybaa
+after sort: utaabby
+utaabby
+rightmost_swappable: 5
+before swap: utaabby
+before sort: utaabyb
+after sort: utaabyb
+utaabyb
+rightmost_swappable: 4
+before swap: utaabyb
+before sort: utaaybb
+after sort: utaaybb
+utaaybb
+rightmost_swappable: 3
+before swap: utaaybb
+before sort: utabayb
+after sort: utababy
+utababy
+rightmost_swappable: 5
+before swap: utababy
+before sort: utabayb
+after sort: utabayb
+utabayb
+rightmost_swappable: 4
+before swap: utabayb
+before sort: utabbay
+after sort: utabbay
+utabbay
+rightmost_swappable: 5
+before swap: utabbay
+before sort: utabbya
+after sort: utabbya
+utabbya
+rightmost_swappable: 4
+before swap: utabbya
+before sort: utabyba
+after sort: utabyab
+utabyab
+rightmost_swappable: 5
+before swap: utabyab
+before sort: utabyba
+after sort: utabyba
+utabyba
+rightmost_swappable: 3
+before swap: utabyba
+before sort: utaybba
+after sort: utayabb
+utayabb
+rightmost_swappable: 4
+before swap: utayabb
+before sort: utaybab
+after sort: utaybab
+utaybab
+rightmost_swappable: 5
+before swap: utaybab
+before sort: utaybba
+after sort: utaybba
+utaybba
+rightmost_swappable: 2
+before swap: utaybba
+before sort: utbayba
+after sort: utbaaby
+utbaaby
+rightmost_swappable: 5
+before swap: utbaaby
+before sort: utbaayb
+after sort: utbaayb
+utbaayb
+rightmost_swappable: 4
+before swap: utbaayb
+before sort: utbabay
+after sort: utbabay
+utbabay
+rightmost_swappable: 5
+before swap: utbabay
+before sort: utbabya
+after sort: utbabya
+utbabya
+rightmost_swappable: 4
+before swap: utbabya
+before sort: utbayba
+after sort: utbayab
+utbayab
+rightmost_swappable: 5
+before swap: utbayab
+before sort: utbayba
+after sort: utbayba
+utbayba
+rightmost_swappable: 3
+before swap: utbayba
+before sort: utbbaya
+after sort: utbbaay
+utbbaay
+rightmost_swappable: 5
+before swap: utbbaay
+before sort: utbbaya
+after sort: utbbaya
+utbbaya
+rightmost_swappable: 4
+before swap: utbbaya
+before sort: utbbyaa
+after sort: utbbyaa
+utbbyaa
+rightmost_swappable: 3
+before swap: utbbyaa
+before sort: utbybaa
+after sort: utbyaab
+utbyaab
+rightmost_swappable: 5
+before swap: utbyaab
+before sort: utbyaba
+after sort: utbyaba
+utbyaba
+rightmost_swappable: 4
+before swap: utbyaba
+before sort: utbybaa
+after sort: utbybaa
+utbybaa
+rightmost_swappable: 2
+before swap: utbybaa
+before sort: utybbaa
+after sort: utyaabb
+utyaabb
+rightmost_swappable: 4
+before swap: utyaabb
+before sort: utyabab
+after sort: utyabab
+utyabab
+rightmost_swappable: 5
+before swap: utyabab
+before sort: utyabba
+after sort: utyabba
+utyabba
+rightmost_swappable: 3
+before swap: utyabba
+before sort: utybaba
+after sort: utybaab
+utybaab
+rightmost_swappable: 5
+before swap: utybaab
+before sort: utybaba
+after sort: utybaba
+utybaba
+rightmost_swappable: 4
+before swap: utybaba
+before sort: utybbaa
+after sort: utybbaa
+utybbaa
+rightmost_swappable: 1
+before swap: utybbaa
+before sort: uytbbaa
+after sort: uyaabbt
+uyaabbt
+rightmost_swappable: 5
+before swap: uyaabbt
+before sort: uyaabtb
+after sort: uyaabtb
+uyaabtb
+rightmost_swappable: 4
+before swap: uyaabtb
+before sort: uyaatbb
+after sort: uyaatbb
+uyaatbb
+rightmost_swappable: 3
+before swap: uyaatbb
+before sort: uyabatb
+after sort: uyababt
+uyababt
+rightmost_swappable: 5
+before swap: uyababt
+before sort: uyabatb
+after sort: uyabatb
+uyabatb
+rightmost_swappable: 4
+before swap: uyabatb
+before sort: uyabbat
+after sort: uyabbat
+uyabbat
+rightmost_swappable: 5
+before swap: uyabbat
+before sort: uyabbta
+after sort: uyabbta
+uyabbta
+rightmost_swappable: 4
+before swap: uyabbta
+before sort: uyabtba
+after sort: uyabtab
+uyabtab
+rightmost_swappable: 5
+before swap: uyabtab
+before sort: uyabtba
+after sort: uyabtba
+uyabtba
+rightmost_swappable: 3
+before swap: uyabtba
+before sort: uyatbba
+after sort: uyatabb
+uyatabb
+rightmost_swappable: 4
+before swap: uyatabb
+before sort: uyatbab
+after sort: uyatbab
+uyatbab
+rightmost_swappable: 5
+before swap: uyatbab
+before sort: uyatbba
+after sort: uyatbba
+uyatbba
+rightmost_swappable: 2
+before swap: uyatbba
+before sort: uybatba
+after sort: uybaabt
+uybaabt
+rightmost_swappable: 5
+before swap: uybaabt
+before sort: uybaatb
+after sort: uybaatb
+uybaatb
+rightmost_swappable: 4
+before swap: uybaatb
+before sort: uybabat
+after sort: uybabat
+uybabat
+rightmost_swappable: 5
+before swap: uybabat
+before sort: uybabta
+after sort: uybabta
+uybabta
+rightmost_swappable: 4
+before swap: uybabta
+before sort: uybatba
+after sort: uybatab
+uybatab
+rightmost_swappable: 5
+before swap: uybatab
+before sort: uybatba
+after sort: uybatba
+uybatba
+rightmost_swappable: 3
+before swap: uybatba
+before sort: uybbata
+after sort: uybbaat
+uybbaat
+rightmost_swappable: 5
+before swap: uybbaat
+before sort: uybbata
+after sort: uybbata
+uybbata
+rightmost_swappable: 4
+before swap: uybbata
+before sort: uybbtaa
+after sort: uybbtaa
+uybbtaa
+rightmost_swappable: 3
+before swap: uybbtaa
+before sort: uybtbaa
+after sort: uybtaab
+uybtaab
+rightmost_swappable: 5
+before swap: uybtaab
+before sort: uybtaba
+after sort: uybtaba
+uybtaba
+rightmost_swappable: 4
+before swap: uybtaba
+before sort: uybtbaa
+after sort: uybtbaa
+uybtbaa
+rightmost_swappable: 2
+before swap: uybtbaa
+before sort: uytbbaa
+after sort: uytaabb
+uytaabb
+rightmost_swappable: 4
+before swap: uytaabb
+before sort: uytabab
+after sort: uytabab
+uytabab
+rightmost_swappable: 5
+before swap: uytabab
+before sort: uytabba
+after sort: uytabba
+uytabba
+rightmost_swappable: 3
+before swap: uytabba
+before sort: uytbaba
+after sort: uytbaab
+uytbaab
+rightmost_swappable: 5
+before swap: uytbaab
+before sort: uytbaba
+after sort: uytbaba
+uytbaba
+rightmost_swappable: 4
+before swap: uytbaba
+before sort: uytbbaa
+after sort: uytbbaa
+uytbbaa
+rightmost_swappable: 0
+before swap: uytbbaa
+before sort: yutbbaa
+after sort: yaabbtu
+yaabbtu
+rightmost_swappable: 5
+before swap: yaabbtu
+before sort: yaabbut
+after sort: yaabbut
+yaabbut
+rightmost_swappable: 4
+before swap: yaabbut
+before sort: yaabtbu
+after sort: yaabtbu
+yaabtbu
+rightmost_swappable: 5
+before swap: yaabtbu
+before sort: yaabtub
+after sort: yaabtub
+yaabtub
+rightmost_swappable: 4
+before swap: yaabtub
+before sort: yaabutb
+after sort: yaabubt
+yaabubt
+rightmost_swappable: 5
+before swap: yaabubt
+before sort: yaabutb
+after sort: yaabutb
+yaabutb
+rightmost_swappable: 3
+before swap: yaabutb
+before sort: yaatbub
+after sort: yaatbbu
+yaatbbu
+rightmost_swappable: 5
+before swap: yaatbbu
+before sort: yaatbub
+after sort: yaatbub
+yaatbub
+rightmost_swappable: 4
+before swap: yaatbub
+before sort: yaatubb
+after sort: yaatubb
+yaatubb
+rightmost_swappable: 3
+before swap: yaatubb
+before sort: yaautbb
+after sort: yaaubbt
+yaaubbt
+rightmost_swappable: 5
+before swap: yaaubbt
+before sort: yaaubtb
+after sort: yaaubtb
+yaaubtb
+rightmost_swappable: 4
+before swap: yaaubtb
+before sort: yaautbb
+after sort: yaautbb
+yaautbb
+rightmost_swappable: 2
+before swap: yaautbb
+before sort: yabautb
+after sort: yababtu
+yababtu
+rightmost_swappable: 5
+before swap: yababtu
+before sort: yababut
+after sort: yababut
+yababut
+rightmost_swappable: 4
+before swap: yababut
+before sort: yabatbu
+after sort: yabatbu
+yabatbu
+rightmost_swappable: 5
+before swap: yabatbu
+before sort: yabatub
+after sort: yabatub
+yabatub
+rightmost_swappable: 4
+before swap: yabatub
+before sort: yabautb
+after sort: yabaubt
+yabaubt
+rightmost_swappable: 5
+before swap: yabaubt
+before sort: yabautb
+after sort: yabautb
+yabautb
+rightmost_swappable: 3
+before swap: yabautb
+before sort: yabbaut
+after sort: yabbatu
+yabbatu
+rightmost_swappable: 5
+before swap: yabbatu
+before sort: yabbaut
+after sort: yabbaut
+yabbaut
+rightmost_swappable: 4
+before swap: yabbaut
+before sort: yabbtau
+after sort: yabbtau
+yabbtau
+rightmost_swappable: 5
+before swap: yabbtau
+before sort: yabbtua
+after sort: yabbtua
+yabbtua
+rightmost_swappable: 4
+before swap: yabbtua
+before sort: yabbuta
+after sort: yabbuat
+yabbuat
+rightmost_swappable: 5
+before swap: yabbuat
+before sort: yabbuta
+after sort: yabbuta
+yabbuta
+rightmost_swappable: 3
+before swap: yabbuta
+before sort: yabtbua
+after sort: yabtabu
+yabtabu
+rightmost_swappable: 5
+before swap: yabtabu
+before sort: yabtaub
+after sort: yabtaub
+yabtaub
+rightmost_swappable: 4
+before swap: yabtaub
+before sort: yabtbau
+after sort: yabtbau
+yabtbau
+rightmost_swappable: 5
+before swap: yabtbau
+before sort: yabtbua
+after sort: yabtbua
+yabtbua
+rightmost_swappable: 4
+before swap: yabtbua
+before sort: yabtuba
+after sort: yabtuab
+yabtuab
+rightmost_swappable: 5
+before swap: yabtuab
+before sort: yabtuba
+after sort: yabtuba
+yabtuba
+rightmost_swappable: 3
+before swap: yabtuba
+before sort: yabutba
+after sort: yabuabt
+yabuabt
+rightmost_swappable: 5
+before swap: yabuabt
+before sort: yabuatb
+after sort: yabuatb
+yabuatb
+rightmost_swappable: 4
+before swap: yabuatb
+before sort: yabubat
+after sort: yabubat
+yabubat
+rightmost_swappable: 5
+before swap: yabubat
+before sort: yabubta
+after sort: yabubta
+yabubta
+rightmost_swappable: 4
+before swap: yabubta
+before sort: yabutba
+after sort: yabutab
+yabutab
+rightmost_swappable: 5
+before swap: yabutab
+before sort: yabutba
+after sort: yabutba
+yabutba
+rightmost_swappable: 2
+before swap: yabutba
+before sort: yatbuba
+after sort: yatabbu
+yatabbu
+rightmost_swappable: 5
+before swap: yatabbu
+before sort: yatabub
+after sort: yatabub
+yatabub
+rightmost_swappable: 4
+before swap: yatabub
+before sort: yataubb
+after sort: yataubb
+yataubb
+rightmost_swappable: 3
+before swap: yataubb
+before sort: yatbaub
+after sort: yatbabu
+yatbabu
+rightmost_swappable: 5
+before swap: yatbabu
+before sort: yatbaub
+after sort: yatbaub
+yatbaub
+rightmost_swappable: 4
+before swap: yatbaub
+before sort: yatbbau
+after sort: yatbbau
+yatbbau
+rightmost_swappable: 5
+before swap: yatbbau
+before sort: yatbbua
+after sort: yatbbua
+yatbbua
+rightmost_swappable: 4
+before swap: yatbbua
+before sort: yatbuba
+after sort: yatbuab
+yatbuab
+rightmost_swappable: 5
+before swap: yatbuab
+before sort: yatbuba
+after sort: yatbuba
+yatbuba
+rightmost_swappable: 3
+before swap: yatbuba
+before sort: yatubba
+after sort: yatuabb
+yatuabb
+rightmost_swappable: 4
+before swap: yatuabb
+before sort: yatubab
+after sort: yatubab
+yatubab
+rightmost_swappable: 5
+before swap: yatubab
+before sort: yatubba
+after sort: yatubba
+yatubba
+rightmost_swappable: 2
+before swap: yatubba
+before sort: yautbba
+after sort: yauabbt
+yauabbt
+rightmost_swappable: 5
+before swap: yauabbt
+before sort: yauabtb
+after sort: yauabtb
+yauabtb
+rightmost_swappable: 4
+before swap: yauabtb
+before sort: yauatbb
+after sort: yauatbb
+yauatbb
+rightmost_swappable: 3
+before swap: yauatbb
+before sort: yaubatb
+after sort: yaubabt
+yaubabt
+rightmost_swappable: 5
+before swap: yaubabt
+before sort: yaubatb
+after sort: yaubatb
+yaubatb
+rightmost_swappable: 4
+before swap: yaubatb
+before sort: yaubbat
+after sort: yaubbat
+yaubbat
+rightmost_swappable: 5
+before swap: yaubbat
+before sort: yaubbta
+after sort: yaubbta
+yaubbta
+rightmost_swappable: 4
+before swap: yaubbta
+before sort: yaubtba
+after sort: yaubtab
+yaubtab
+rightmost_swappable: 5
+before swap: yaubtab
+before sort: yaubtba
+after sort: yaubtba
+yaubtba
+rightmost_swappable: 3
+before swap: yaubtba
+before sort: yautbba
+after sort: yautabb
+yautabb
+rightmost_swappable: 4
+before swap: yautabb
+before sort: yautbab
+after sort: yautbab
+yautbab
+rightmost_swappable: 5
+before swap: yautbab
+before sort: yautbba
+after sort: yautbba
+yautbba
+rightmost_swappable: 1
+before swap: yautbba
+before sort: ybautba
+after sort: ybaabtu
+ybaabtu
+rightmost_swappable: 5
+before swap: ybaabtu
+before sort: ybaabut
+after sort: ybaabut
+ybaabut
+rightmost_swappable: 4
+before swap: ybaabut
+before sort: ybaatbu
+after sort: ybaatbu
+ybaatbu
+rightmost_swappable: 5
+before swap: ybaatbu
+before sort: ybaatub
+after sort: ybaatub
+ybaatub
+rightmost_swappable: 4
+before swap: ybaatub
+before sort: ybaautb
+after sort: ybaaubt
+ybaaubt
+rightmost_swappable: 5
+before swap: ybaaubt
+before sort: ybaautb
+after sort: ybaautb
+ybaautb
+rightmost_swappable: 3
+before swap: ybaautb
+before sort: ybabaut
+after sort: ybabatu
+ybabatu
+rightmost_swappable: 5
+before swap: ybabatu
+before sort: ybabaut
+after sort: ybabaut
+ybabaut
+rightmost_swappable: 4
+before swap: ybabaut
+before sort: ybabtau
+after sort: ybabtau
+ybabtau
+rightmost_swappable: 5
+before swap: ybabtau
+before sort: ybabtua
+after sort: ybabtua
+ybabtua
+rightmost_swappable: 4
+before swap: ybabtua
+before sort: ybabuta
+after sort: ybabuat
+ybabuat
+rightmost_swappable: 5
+before swap: ybabuat
+before sort: ybabuta
+after sort: ybabuta
+ybabuta
+rightmost_swappable: 3
+before swap: ybabuta
+before sort: ybatbua
+after sort: ybatabu
+ybatabu
+rightmost_swappable: 5
+before swap: ybatabu
+before sort: ybataub
+after sort: ybataub
+ybataub
+rightmost_swappable: 4
+before swap: ybataub
+before sort: ybatbau
+after sort: ybatbau
+ybatbau
+rightmost_swappable: 5
+before swap: ybatbau
+before sort: ybatbua
+after sort: ybatbua
+ybatbua
+rightmost_swappable: 4
+before swap: ybatbua
+before sort: ybatuba
+after sort: ybatuab
+ybatuab
+rightmost_swappable: 5
+before swap: ybatuab
+before sort: ybatuba
+after sort: ybatuba
+ybatuba
+rightmost_swappable: 3
+before swap: ybatuba
+before sort: ybautba
+after sort: ybauabt
+ybauabt
+rightmost_swappable: 5
+before swap: ybauabt
+before sort: ybauatb
+after sort: ybauatb
+ybauatb
+rightmost_swappable: 4
+before swap: ybauatb
+before sort: ybaubat
+after sort: ybaubat
+ybaubat
+rightmost_swappable: 5
+before swap: ybaubat
+before sort: ybaubta
+after sort: ybaubta
+ybaubta
+rightmost_swappable: 4
+before swap: ybaubta
+before sort: ybautba
+after sort: ybautab
+ybautab
+rightmost_swappable: 5
+before swap: ybautab
+before sort: ybautba
+after sort: ybautba
+ybautba
+rightmost_swappable: 2
+before swap: ybautba
+before sort: ybbauta
+after sort: ybbaatu
+ybbaatu
+rightmost_swappable: 5
+before swap: ybbaatu
+before sort: ybbaaut
+after sort: ybbaaut
+ybbaaut
+rightmost_swappable: 4
+before swap: ybbaaut
+before sort: ybbatau
+after sort: ybbatau
+ybbatau
+rightmost_swappable: 5
+before swap: ybbatau
+before sort: ybbatua
+after sort: ybbatua
+ybbatua
+rightmost_swappable: 4
+before swap: ybbatua
+before sort: ybbauta
+after sort: ybbauat
+ybbauat
+rightmost_swappable: 5
+before swap: ybbauat
+before sort: ybbauta
+after sort: ybbauta
+ybbauta
+rightmost_swappable: 3
+before swap: ybbauta
+before sort: ybbtaua
+after sort: ybbtaau
+ybbtaau
+rightmost_swappable: 5
+before swap: ybbtaau
+before sort: ybbtaua
+after sort: ybbtaua
+ybbtaua
+rightmost_swappable: 4
+before swap: ybbtaua
+before sort: ybbtuaa
+after sort: ybbtuaa
+ybbtuaa
+rightmost_swappable: 3
+before swap: ybbtuaa
+before sort: ybbutaa
+after sort: ybbuaat
+ybbuaat
+rightmost_swappable: 5
+before swap: ybbuaat
+before sort: ybbuata
+after sort: ybbuata
+ybbuata
+rightmost_swappable: 4
+before swap: ybbuata
+before sort: ybbutaa
+after sort: ybbutaa
+ybbutaa
+rightmost_swappable: 2
+before swap: ybbutaa
+before sort: ybtbuaa
+after sort: ybtaabu
+ybtaabu
+rightmost_swappable: 5
+before swap: ybtaabu
+before sort: ybtaaub
+after sort: ybtaaub
+ybtaaub
+rightmost_swappable: 4
+before swap: ybtaaub
+before sort: ybtabau
+after sort: ybtabau
+ybtabau
+rightmost_swappable: 5
+before swap: ybtabau
+before sort: ybtabua
+after sort: ybtabua
+ybtabua
+rightmost_swappable: 4
+before swap: ybtabua
+before sort: ybtauba
+after sort: ybtauab
+ybtauab
+rightmost_swappable: 5
+before swap: ybtauab
+before sort: ybtauba
+after sort: ybtauba
+ybtauba
+rightmost_swappable: 3
+before swap: ybtauba
+before sort: ybtbaua
+after sort: ybtbaau
+ybtbaau
+rightmost_swappable: 5
+before swap: ybtbaau
+before sort: ybtbaua
+after sort: ybtbaua
+ybtbaua
+rightmost_swappable: 4
+before swap: ybtbaua
+before sort: ybtbuaa
+after sort: ybtbuaa
+ybtbuaa
+rightmost_swappable: 3
+before swap: ybtbuaa
+before sort: ybtubaa
+after sort: ybtuaab
+ybtuaab
+rightmost_swappable: 5
+before swap: ybtuaab
+before sort: ybtuaba
+after sort: ybtuaba
+ybtuaba
+rightmost_swappable: 4
+before swap: ybtuaba
+before sort: ybtubaa
+after sort: ybtubaa
+ybtubaa
+rightmost_swappable: 2
+before swap: ybtubaa
+before sort: ybutbaa
+after sort: ybuaabt
+ybuaabt
+rightmost_swappable: 5
+before swap: ybuaabt
+before sort: ybuaatb
+after sort: ybuaatb
+ybuaatb
+rightmost_swappable: 4
+before swap: ybuaatb
+before sort: ybuabat
+after sort: ybuabat
+ybuabat
+rightmost_swappable: 5
+before swap: ybuabat
+before sort: ybuabta
+after sort: ybuabta
+ybuabta
+rightmost_swappable: 4
+before swap: ybuabta
+before sort: ybuatba
+after sort: ybuatab
+ybuatab
+rightmost_swappable: 5
+before swap: ybuatab
+before sort: ybuatba
+after sort: ybuatba
+ybuatba
+rightmost_swappable: 3
+before swap: ybuatba
+before sort: ybubata
+after sort: ybubaat
+ybubaat
+rightmost_swappable: 5
+before swap: ybubaat
+before sort: ybubata
+after sort: ybubata
+ybubata
+rightmost_swappable: 4
+before swap: ybubata
+before sort: ybubtaa
+after sort: ybubtaa
+ybubtaa
+rightmost_swappable: 3
+before swap: ybubtaa
+before sort: ybutbaa
+after sort: ybutaab
+ybutaab
+rightmost_swappable: 5
+before swap: ybutaab
+before sort: ybutaba
+after sort: ybutaba
+ybutaba
+rightmost_swappable: 4
+before swap: ybutaba
+before sort: ybutbaa
+after sort: ybutbaa
+ybutbaa
+rightmost_swappable: 1
+before swap: ybutbaa
+before sort: ytbubaa
+after sort: ytaabbu
+ytaabbu
+rightmost_swappable: 5
+before swap: ytaabbu
+before sort: ytaabub
+after sort: ytaabub
+ytaabub
+rightmost_swappable: 4
+before swap: ytaabub
+before sort: ytaaubb
+after sort: ytaaubb
+ytaaubb
+rightmost_swappable: 3
+before swap: ytaaubb
+before sort: ytabaub
+after sort: ytababu
+ytababu
+rightmost_swappable: 5
+before swap: ytababu
+before sort: ytabaub
+after sort: ytabaub
+ytabaub
+rightmost_swappable: 4
+before swap: ytabaub
+before sort: ytabbau
+after sort: ytabbau
+ytabbau
+rightmost_swappable: 5
+before swap: ytabbau
+before sort: ytabbua
+after sort: ytabbua
+ytabbua
+rightmost_swappable: 4
+before swap: ytabbua
+before sort: ytabuba
+after sort: ytabuab
+ytabuab
+rightmost_swappable: 5
+before swap: ytabuab
+before sort: ytabuba
+after sort: ytabuba
+ytabuba
+rightmost_swappable: 3
+before swap: ytabuba
+before sort: ytaubba
+after sort: ytauabb
+ytauabb
+rightmost_swappable: 4
+before swap: ytauabb
+before sort: ytaubab
+after sort: ytaubab
+ytaubab
+rightmost_swappable: 5
+before swap: ytaubab
+before sort: ytaubba
+after sort: ytaubba
+ytaubba
+rightmost_swappable: 2
+before swap: ytaubba
+before sort: ytbauba
+after sort: ytbaabu
+ytbaabu
+rightmost_swappable: 5
+before swap: ytbaabu
+before sort: ytbaaub
+after sort: ytbaaub
+ytbaaub
+rightmost_swappable: 4
+before swap: ytbaaub
+before sort: ytbabau
+after sort: ytbabau
+ytbabau
+rightmost_swappable: 5
+before swap: ytbabau
+before sort: ytbabua
+after sort: ytbabua
+ytbabua
+rightmost_swappable: 4
+before swap: ytbabua
+before sort: ytbauba
+after sort: ytbauab
+ytbauab
+rightmost_swappable: 5
+before swap: ytbauab
+before sort: ytbauba
+after sort: ytbauba
+ytbauba
+rightmost_swappable: 3
+before swap: ytbauba
+before sort: ytbbaua
+after sort: ytbbaau
+ytbbaau
+rightmost_swappable: 5
+before swap: ytbbaau
+before sort: ytbbaua
+after sort: ytbbaua
+ytbbaua
+rightmost_swappable: 4
+before swap: ytbbaua
+before sort: ytbbuaa
+after sort: ytbbuaa
+ytbbuaa
+rightmost_swappable: 3
+before swap: ytbbuaa
+before sort: ytbubaa
+after sort: ytbuaab
+ytbuaab
+rightmost_swappable: 5
+before swap: ytbuaab
+before sort: ytbuaba
+after sort: ytbuaba
+ytbuaba
+rightmost_swappable: 4
+before swap: ytbuaba
+before sort: ytbubaa
+after sort: ytbubaa
+ytbubaa
+rightmost_swappable: 2
+before swap: ytbubaa
+before sort: ytubbaa
+after sort: ytuaabb
+ytuaabb
+rightmost_swappable: 4
+before swap: ytuaabb
+before sort: ytuabab
+after sort: ytuabab
+ytuabab
+rightmost_swappable: 5
+before swap: ytuabab
+before sort: ytuabba
+after sort: ytuabba
+ytuabba
+rightmost_swappable: 3
+before swap: ytuabba
+before sort: ytubaba
+after sort: ytubaab
+ytubaab
+rightmost_swappable: 5
+before swap: ytubaab
+before sort: ytubaba
+after sort: ytubaba
+ytubaba
+rightmost_swappable: 4
+before swap: ytubaba
+before sort: ytubbaa
+after sort: ytubbaa
+ytubbaa
+rightmost_swappable: 1
+before swap: ytubbaa
+before sort: yutbbaa
+after sort: yuaabbt
+yuaabbt
+rightmost_swappable: 5
+before swap: yuaabbt
+before sort: yuaabtb
+after sort: yuaabtb
+yuaabtb
+rightmost_swappable: 4
+before swap: yuaabtb
+before sort: yuaatbb
+after sort: yuaatbb
+yuaatbb
+rightmost_swappable: 3
+before swap: yuaatbb
+before sort: yuabatb
+after sort: yuababt
+yuababt
+rightmost_swappable: 5
+before swap: yuababt
+before sort: yuabatb
+after sort: yuabatb
+yuabatb
+rightmost_swappable: 4
+before swap: yuabatb
+before sort: yuabbat
+after sort: yuabbat
+yuabbat
+rightmost_swappable: 5
+before swap: yuabbat
+before sort: yuabbta
+after sort: yuabbta
+yuabbta
+rightmost_swappable: 4
+before swap: yuabbta
+before sort: yuabtba
+after sort: yuabtab
+yuabtab
+rightmost_swappable: 5
+before swap: yuabtab
+before sort: yuabtba
+after sort: yuabtba
+yuabtba
+rightmost_swappable: 3
+before swap: yuabtba
+before sort: yuatbba
+after sort: yuatabb
+yuatabb
+rightmost_swappable: 4
+before swap: yuatabb
+before sort: yuatbab
+after sort: yuatbab
+yuatbab
+rightmost_swappable: 5
+before swap: yuatbab
+before sort: yuatbba
+after sort: yuatbba
+yuatbba
+rightmost_swappable: 2
+before swap: yuatbba
+before sort: yubatba
+after sort: yubaabt
+yubaabt
+rightmost_swappable: 5
+before swap: yubaabt
+before sort: yubaatb
+after sort: yubaatb
+yubaatb
+rightmost_swappable: 4
+before swap: yubaatb
+before sort: yubabat
+after sort: yubabat
+yubabat
+rightmost_swappable: 5
+before swap: yubabat
+before sort: yubabta
+after sort: yubabta
+yubabta
+rightmost_swappable: 4
+before swap: yubabta
+before sort: yubatba
+after sort: yubatab
+yubatab
+rightmost_swappable: 5
+before swap: yubatab
+before sort: yubatba
+after sort: yubatba
+yubatba
+rightmost_swappable: 3
+before swap: yubatba
+before sort: yubbata
+after sort: yubbaat
+yubbaat
+rightmost_swappable: 5
+before swap: yubbaat
+before sort: yubbata
+after sort: yubbata
+yubbata
+rightmost_swappable: 4
+before swap: yubbata
+before sort: yubbtaa
+after sort: yubbtaa
+yubbtaa
+rightmost_swappable: 3
+before swap: yubbtaa
+before sort: yubtbaa
+after sort: yubtaab
+yubtaab
+rightmost_swappable: 5
+before swap: yubtaab
+before sort: yubtaba
+after sort: yubtaba
+yubtaba
+rightmost_swappable: 4
+before swap: yubtaba
+before sort: yubtbaa
+after sort: yubtbaa
+yubtbaa
+rightmost_swappable: 2
+before swap: yubtbaa
+before sort: yutbbaa
+after sort: yutaabb
+yutaabb
+rightmost_swappable: 4
+before swap: yutaabb
+before sort: yutabab
+after sort: yutabab
+yutabab
+rightmost_swappable: 5
+before swap: yutabab
+before sort: yutabba
+after sort: yutabba
+yutabba
+rightmost_swappable: 3
+before swap: yutabba
+before sort: yutbaba
+after sort: yutbaab
+yutbaab
+rightmost_swappable: 5
+before swap: yutbaab
+before sort: yutbaba
+after sort: yutbaba
+yutbaba
+rightmost_swappable: 4
+before swap: yutbaba
+before sort: yutbbaa
+after sort: yutbbaa
+yutbbaa
+rightmost_swappable: 0
+before swap: yutbbaa
+before sort: yutbbaa
+after sort: yaabbtu
